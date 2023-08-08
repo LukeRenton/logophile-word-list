@@ -1,0 +1,4407 @@
+Words similar to perquisite:
+==============================
+perquisites : 0.5305598378181458
+perks : 0.49040135741233826
+Esops : 0.47972264885902405
+perk : 0.44261693954467773
+Fringe_Benefit_Tax : 0.42450034618377686
+Section_##L : 0.41761600971221924
+Perquisites : 0.41760432720184326
+emolument : 0.41756322979927063
+conveyance_allowance : 0.4159633219242096
+GOCC_executives : 0.4112841784954071
+
+Words similar to whimsical:
+==============================
+whimsy : 0.6812437176704407
+fanciful : 0.6694296598434448
+wildly_imaginative : 0.6687796115875244
+quirky : 0.6619521379470825
+playful : 0.6570675373077393
+zany : 0.6414622664451599
+fantastical : 0.634545624256134
+Whimsical : 0.6344612240791321
+imaginative : 0.6317590475082397
+kitschy : 0.631462812423706
+
+Words similar to prowess:
+==============================
+adeptness : 0.6343541741371155
+abilities : 0.6210176348686218
+athletic_prowess : 0.6141964793205261
+acumen : 0.6063132286071777
+mastery : 0.5834618210792542
+brilliance : 0.5733363032341003
+smarts : 0.5699307918548584
+skills : 0.5654427409172058
+wizardry : 0.5638952255249023
+feats : 0.5612058043479919
+
+Words similar to embezzle:
+==============================
+embezzled : 0.7448328733444214
+embezzling : 0.726688802242279
+defraud : 0.6608371138572693
+allegedly_embezzled : 0.6431329250335693
+embezzlement : 0.6415480971336365
+misappropriate : 0.635966420173645
+misappropriating : 0.6083480715751648
+bilk : 0.6030377149581909
+defrauding : 0.5842747092247009
+misappropriated : 0.5814444422721863
+
+Words similar to abscond:
+==============================
+absconded : 0.5495801568031311
+flee : 0.4915268123149872
+deport : 0.4777531027793884
+absconds : 0.47144752740859985
+absconding : 0.4564915597438812
+reoffend : 0.45171767473220825
+summarily_deport : 0.450751394033432
+re_offend : 0.4501173198223114
+smuggle_contraband : 0.4425671100616455
+abduct : 0.4407643973827362
+
+Words similar to mitigate:
+==============================
+minimize : 0.794323742389679
+lessen : 0.699629545211792
+mitigating : 0.6882768869400024
+ameliorate : 0.6658838987350464
+alleviate : 0.6545130014419556
+reduce : 0.6297689080238342
+counteract : 0.6121773719787598
+mitigated : 0.6051373481750488
+mitigation : 0.5797078609466553
+insulate : 0.5669325590133667
+
+Words similar to rectitude:
+==============================
+probity : 0.6241670250892639
+moral_rectitude : 0.5823630690574646
+piety : 0.5801999568939209
+morality : 0.5625883936882019
+vainglory : 0.5533146262168884
+moral_uprightness : 0.543677568435669
+prudence : 0.5384237170219421
+uprightness : 0.5353532433509827
+righteousness : 0.530243992805481
+noblesse_oblige : 0.5292303562164307
+
+Words similar to thwart:
+==============================
+stymie : 0.7278566360473633
+thwarting : 0.7232083082199097
+thwarted : 0.6841244101524353
+frustrate : 0.6401200890541077
+squelch : 0.6307623982429504
+scuttle : 0.6220474243164062
+derail : 0.6191343665122986
+forestall : 0.6101610064506531
+prevent : 0.606004536151886
+quash : 0.6001561284065247
+
+Words similar to loquacious:
+==============================
+garrulous : 0.7290787696838379
+voluble : 0.6901736259460449
+talkative : 0.6827949285507202
+affable : 0.6493369936943054
+chatty : 0.6260340213775635
+gregarious : 0.6214694380760193
+jovial : 0.6046246886253357
+amiable : 0.6006972789764404
+verbose : 0.5907604694366455
+excitable : 0.5895733833312988
+
+Words similar to forte:
+==============================
+forté : 0.7263489961624146
+fortes : 0.6312932968139648
+excels : 0.5259307026863098
+métier : 0.5151362419128418
+knack : 0.5130588412284851
+metier : 0.49503469467163086
+equally_adept : 0.4918346703052521
+prowess : 0.4868159294128418
+adept : 0.4862841069698334
+excelled : 0.45343008637428284
+
+Words similar to outlandish:
+==============================
+outrageous : 0.7680980563163757
+preposterous : 0.6999685764312744
+absurd : 0.6995595097541809
+ridiculous : 0.6808869242668152
+ludicrous : 0.6679946184158325
+bizarre : 0.6381269693374634
+fanciful : 0.6336609125137329
+nonsensical : 0.6252372860908508
+extravagant : 0.6214746236801147
+wacky : 0.6109129786491394
+
+Words similar to comprise:
+==============================
+comprises : 0.7974007725715637
+consist : 0.7661418318748474
+comprised : 0.7490113973617554
+comprising : 0.7264792919158936
+consists : 0.6991491913795471
+consisting : 0.6763338446617126
+Comprising : 0.6304142475128174
+includes : 0.5695574283599854
+consisted : 0.568497896194458
+Comprised : 0.5627474784851074
+
+Words similar to salvo:
+==============================
+salvos : 0.6878209114074707
+opening_salvo : 0.6498045325279236
+broadside : 0.5839319825172424
+latest_salvo : 0.5772596597671509
+opening_salvos : 0.5344823598861694
+fusillade : 0.5287826061248779
+salvoes : 0.5204572677612305
+barrage : 0.5135110020637512
+verbal_broadside : 0.4848117530345917
+vigorous_counterattack : 0.480988472700119
+
+Words similar to cogent:
+==============================
+trenchant : 0.6095929741859436
+succinct : 0.6028379797935486
+persuasive : 0.5985667705535889
+cogently : 0.5944402813911438
+cogent_argument : 0.5924615859985352
+coherent : 0.5843549966812134
+eloquent : 0.5840200781822205
+compelling : 0.5774314403533936
+insightful : 0.569729208946228
+nuanced : 0.5474260449409485
+
+Words similar to homily:
+==============================
+sermon : 0.6939288377761841
+homilies : 0.6510288715362549
+Homily : 0.62889164686203
+Urbi_et_Orbi_blessing : 0.6248342394828796
+Benedict_XVI : 0.6116296052932739
+Holy_Father : 0.6106271743774414
+midday_Angelus : 0.6080068349838257
+noontime_prayer : 0.5986050367355347
+homily_Benedict_XVI : 0.5966004133224487
+liturgy : 0.5875551700592041
+
+Words similar to glom:
+==============================
+glom_onto : 0.5017158389091492
+glomming : 0.5014572739601135
+suck : 0.48021262884140015
+dissappear : 0.47950008511543274
+transmogrify : 0.4690505564212799
+glommed : 0.46356162428855896
+morph : 0.45705506205558777
+whathaveyou : 0.4491848647594452
+talentless_hacks : 0.44315454363822937
+latch_onto : 0.4351619482040405
+
+Words similar to dauntless:
+==============================
+fearless : 0.6051745414733887
+indefatigable : 0.5747982859611511
+intrepid : 0.530217707157135
+doughty : 0.5130883455276489
+tenacious : 0.509597897529602
+stout_hearted : 0.501726508140564
+indomitable : 0.4926533102989197
+brave : 0.48884472250938416
+courageous : 0.4873308539390564
+resourceful : 0.4860699772834778
+
+Words similar to vagary:
+==============================
+inexactitude : 0.5639758110046387
+ludic : 0.5535306930541992
+vicissitude : 0.5473406314849854
+pedantry : 0.5469697713851929
+incoherency : 0.5295067429542542
+odiousness : 0.5286692976951599
+discombobulation : 0.5260018706321716
+overdetermined : 0.5214323401451111
+nebulousness : 0.5193449258804321
+tautologies : 0.5166507959365845
+
+Words similar to ameliorate:
+==============================
+alleviate : 0.7246618270874023
+ameliorating : 0.6999104022979736
+mitigate : 0.6658837199211121
+alleviating : 0.6171948313713074
+exacerbate : 0.5776246190071106
+lessen : 0.5770773887634277
+forestall : 0.5769014358520508
+relieve : 0.5698983073234558
+amelioration : 0.5664502382278442
+remedy : 0.5631312727928162
+
+Words similar to illustrious:
+==============================
+esteemed : 0.6421819925308228
+legendary : 0.5673925876617432
+distinguished : 0.5667365789413452
+illustrious_career : 0.566297709941864
+storied : 0.5457910895347595
+greats : 0.5325239896774292
+illustrious_predecessors : 0.5241582989692688
+famous : 0.5080001354217529
+distinguised : 0.49337854981422424
+enviable : 0.48729798197746277
+
+Words similar to corollary:
+==============================
+axiomatic : 0.5758607387542725
+consequence : 0.5639625787734985
+implication : 0.538606584072113
+truism : 0.5299720764160156
+logical_corollary : 0.5169130563735962
+begets : 0.5134833455085754
+axiom : 0.5101756453514099
+syllogism : 0.5042905211448669
+corollaries : 0.5040983557701111
+fallacy : 0.49686649441719055
+
+Words similar to evince:
+==============================
+evincing : 0.5700461864471436
+arouse : 0.5674909353256226
+evinced : 0.5588738322257996
+evoke : 0.551275372505188
+elicit : 0.5411742329597473
+engender : 0.5299811363220215
+exude : 0.5263848900794983
+evinces : 0.5067303776741028
+betoken : 0.5031638741493225
+bespeak : 0.4944351315498352
+
+Words similar to null:
+==============================
+invalid : 0.642361044883728
+declared_null : 0.6236211061477661
+unconstitutional_null : 0.6055322289466858
+rendered_null : 0.5865908861160278
+void_ab_initio : 0.5774500370025635
+nullity : 0.544537365436554
+null_void : 0.5382334589958191
+ultra_vires : 0.5347940921783447
+NRO_null : 0.533271849155426
+merely_voidable : 0.5331798791885376
+
+Words similar to stoic:
+==============================
+impassive : 0.7065460681915283
+taciturn : 0.69258713722229
+stoical : 0.6908625364303589
+unflappable : 0.6461532711982727
+emotionless : 0.6326166987419128
+stoicism : 0.6245536804199219
+stoic_demeanor : 0.6153092980384827
+unemotional : 0.6145024299621582
+undemonstrative : 0.6083749532699585
+phlegmatic : 0.6069297194480896
+
+Words similar to plaintive:
+==============================
+plangent : 0.7001062035560608
+lilting : 0.6967032551765442
+mournful : 0.6703336238861084
+lullaby : 0.6335184574127197
+melancholy : 0.6314134001731873
+elegiac : 0.618772566318512
+melancholic : 0.6089293360710144
+keening : 0.604196310043335
+breathy : 0.6020236015319824
+quavery : 0.5989291071891785
+
+Words similar to disavow:
+==============================
+repudiate : 0.71538907289505
+renounce : 0.588066041469574
+denounce : 0.5834039449691772
+disavowed : 0.578154981136322
+condemn : 0.550552248954773
+repudiated : 0.5400041341781616
+disassociate_himself : 0.5342654585838318
+disavowing : 0.5204956531524658
+disavows : 0.5035240054130554
+refute : 0.4974293112754822
+
+Words similar to filch:
+==============================
+pilfer : 0.623392641544342
+purloin : 0.5928999185562134
+steal : 0.517192006111145
+wheedle : 0.4959261417388916
+poach : 0.4945014715194702
+purloined : 0.48959463834762573
+pilfered : 0.48814600706100464
+purloining : 0.4691392183303833
+cadge : 0.4682111144065857
+dupe_unsuspecting : 0.4628670811653137
+
+Words similar to ancillary:
+==============================
+Ancillary : 0.5883966684341431
+ancilliary : 0.565264105796814
+ancillaries : 0.5402023792266846
+ciales_shop : 0.5277848243713379
+miscellaneous : 0.48787951469421387
+Ancillary_Care_Services : 0.4788691997528076
+taxis_limousines : 0.469105988740921
+associated_amine_regeneration : 0.46357566118240356
+Salaberry_de_Valleyfield_Quebec : 0.452632337808609
+truckload_TL : 0.4410473704338074
+
+Words similar to gist:
+==============================
+crux : 0.5529800653457642
+précis : 0.5179906487464905
+paraphrased : 0.5107431411743164
+paraphrasing : 0.5033960342407227
+synopsis : 0.4998033046722412
+brief_summary : 0.4926806688308716
+precis : 0.4923856258392334
+jist : 0.4859119653701782
+summarize : 0.48361265659332275
+nutshell : 0.48302987217903137
+
+Words similar to obstinate:
+==============================
+stubborn : 0.6983836889266968
+intransigent : 0.6360608339309692
+obdurate : 0.6018962264060974
+arrogant : 0.6000192165374756
+unyielding : 0.5979565978050232
+truculent : 0.5827640891075134
+pigheaded : 0.5827600359916687
+recalcitrant : 0.5762758255004883
+mulish : 0.5691115260124207
+obstinacy : 0.5669093728065491
+
+Words similar to concatenate:
+==============================
+literals : 0.6869983673095703
+regex : 0.6799185872077942
+datatype : 0.6797211766242981
+datatypes : 0.6736008524894714
+document.write : 0.6732463836669922
+iterator : 0.6716758012771606
+std_:: : 0.6708785891532898
+struct : 0.6690558791160583
+grep : 0.6680406928062439
+delimiter : 0.6676113605499268
+
+Words similar to yips:
+==============================
+positional_vertigo : 0.5329410433769226
+dropsies : 0.5103248953819275
+tinnitus : 0.5003730654716492
+stage_fright : 0.5002578496932983
+vertigo : 0.4964931607246399
+uncontrollable_tremors : 0.4952898621559143
+hyperacusis : 0.4793172776699066
+malady : 0.47911587357521057
+spasmodic_dysphonia : 0.4760693609714508
+focal_dystonia : 0.46964535117149353
+
+Words similar to trenchant:
+==============================
+perceptive : 0.6222988367080688
+eloquent : 0.6117408871650696
+cogent : 0.6095929145812988
+pithy : 0.5957798361778259
+incisive : 0.588383138179779
+insightful : 0.5860543251037598
+wry : 0.5752654075622559
+strident : 0.5720961093902588
+succinct : 0.5667003393173218
+nuanced : 0.5636757016181946
+
+Words similar to blandishment:
+==============================
+blandishments : 0.5816671252250671
+Likudist : 0.5357127785682678
+Ahmadinejad_Holocaust_denial : 0.5022772550582886
+Zionist_lobbies : 0.4942302703857422
+Sovietism : 0.49255210161209106
+appeasements : 0.4876948297023773
+idee_fixe : 0.48678699135780334
+prevaricators : 0.48516374826431274
+sanctimonious_hypocrisy : 0.4814431965351105
+sanctimoniousness : 0.47924038767814636
+
+Words similar to etiquette:
+==============================
+Etiquette : 0.7044310569763184
+manners : 0.6374653577804565
+Proper_anal : 0.6122579574584961
+Mannersmith : 0.5760114789009094
+unwritten_rules : 0.5527639389038086
+decorum : 0.5504217743873596
+netiquette : 0.5496859550476074
+ettiquette : 0.5357954502105713
+Miss_Manners_c_o : 0.5331540107727051
+etiquettes : 0.5178740620613098
+
+Words similar to saturnine:
+==============================
+epicene : 0.6255716681480408
+broodingly : 0.6255336403846741
+lugubrious : 0.6222178339958191
+impassivity : 0.6165420413017273
+mordant_wit : 0.6157130002975464
+lumpish : 0.6146208047866821
+inexpressive : 0.6119361519813538
+sepulchral : 0.6101787090301514
+vulpine : 0.6069952845573425
+Byronic : 0.6047838926315308
+
+Words similar to advocate:
+==============================
+outspoken_advocate : 0.697317898273468
+proponent : 0.6749036908149719
+staunch_advocate : 0.6730432510375977
+ardent_advocate : 0.6651426553726196
+advocating : 0.6610593795776367
+advocacy : 0.6414904594421387
+tireless_advocate : 0.6348403096199036
+advocates : 0.6031814217567444
+activist : 0.6005449295043945
+campaigner : 0.5916947722434998
+
+Words similar to redux:
+==============================
+Part_Deux : 0.5928042531013489
+esque : 0.491714745759964
+esqe : 0.4900693893432617
+pocalypse : 0.4834243953227997
+ala : 0.48322737216949463
+Incredible_Shrinking : 0.4813273847103119
+ified : 0.47154557704925537
+Strikes_Back : 0.4713512063026428
+Redux : 0.46964624524116516
+Idle_Chatter : 0.4687311053276062
+
+Words similar to fruition:
+==============================
+screeching_halt : 0.521759033203125
+materialize : 0.46068206429481506
+realization : 0.4598950445652008
+grinding_halt : 0.454370379447937
+onstream : 0.4458693563938141
+materializing : 0.4409344494342804
+bear_fruit : 0.4381803870201111
+groundbreaking : 0.4323578178882599
+materialized : 0.42752766609191895
+actualized : 0.41561657190322876
+
+Words similar to dissemble:
+==============================
+deconstruct : 0.5340933203697205
+prevaricate : 0.5131648778915405
+obfuscate : 0.5026731491088867
+disinform : 0.476754754781723
+dissimulate : 0.47004327178001404
+dissembling : 0.45828983187675476
+temporize : 0.45759648084640503
+dissembled : 0.45486322045326233
+mythologise : 0.45486128330230713
+equivocate : 0.4541853070259094
+
+Words similar to perennial:
+==============================
+Perennial : 0.7086803317070007
+perrenial : 0.6415048837661743
+perenial : 0.5469183921813965
+hardy_perennial : 0.4781034290790558
+perennially : 0.45667311549186707
+peskiest : 0.44716358184814453
+hyacinth_bean : 0.42658552527427673
+cellar_dwellar : 0.42427772283554077
+reigning : 0.4232948422431946
+Crape_myrtle : 0.4200134873390198
+
+Words similar to microcosm:
+==============================
+microcosms : 0.5594725608825684
+emblematic : 0.5563671588897705
+microcosmic : 0.5515252351760864
+melting_pot : 0.5092530250549316
+defining_moment : 0.48739781975746155
+Christine_Gaugler_head : 0.48668837547302246
+typifies : 0.4864860773086548
+apt_metaphor : 0.47489163279533386
+harbinger : 0.47227922081947327
+cautionary_tale : 0.46977585554122925
+
+Words similar to reconcile:
+==============================
+reconciled : 0.7129868268966675
+reconciling : 0.7080270648002625
+reconciles : 0.578188419342041
+reconciliation : 0.5432851314544678
+Reconciling : 0.5109814405441284
+irreconcilable : 0.4941557049751282
+seemingly_irreconcilable : 0.49017277359962463
+conciliate : 0.48770633339881897
+mend_fences : 0.48083287477493286
+harmonize : 0.4762817919254303
+
+Words similar to indomitable:
+==============================
+irrepressible : 0.6924742460250854
+indefatigable : 0.6558347344398499
+redoubtable : 0.6288963556289673
+indomitable_spirit : 0.6179749965667725
+tenacity : 0.5886939764022827
+steely : 0.5696729421615601
+iron_willed : 0.562524139881134
+fearless : 0.5612091422080994
+doughty : 0.5507670044898987
+implacable : 0.5454300045967102
+
+Words similar to nudnik:
+==============================
+henpecking : 0.5536847710609436
+Satan_incarnate : 0.5480813980102539
+blabby : 0.5366577506065369
+pompous_ass : 0.5318018198013306
+self_abnegating : 0.5305987000465393
+Peevish : 0.5274446606636047
+monomaniac : 0.5264198184013367
+vulgarian : 0.5239844918251038
+dull_witted : 0.5189409255981445
+solipsist : 0.5096160769462585
+
+Words similar to assuage:
+==============================
+allay : 0.8425456881523132
+soothe : 0.7561150789260864
+mollify : 0.7231100797653198
+placate : 0.7219487428665161
+appease : 0.6838454008102417
+sooth : 0.6787011027336121
+assuaged : 0.6610954403877258
+dispel : 0.6546462178230286
+assuaging : 0.6324353218078613
+quell : 0.6274576187133789
+
+Words similar to jaundiced:
+==============================
+myopic : 0.5266602635383606
+cynical : 0.5172547698020935
+jaded : 0.4947156310081482
+dyspeptic : 0.4699738919734955
+hypochondriacal : 0.46537119150161743
+nearsighted : 0.4586121737957001
+sickly : 0.4546438753604889
+blinkered : 0.44896021485328674
+constipated : 0.4469321370124817
+congenital_cataracts : 0.44467028975486755
+
+Words similar to hashtag:
+==============================
+hash_tag : 0.7015513777732849
+hashtags : 0.6979867219924927
+hashtag_# : 0.6751585006713867
+#_hashtag : 0.6484999656677246
+Twitter_hashtag : 0.628650426864624
+hash_tags : 0.6152181625366211
+Hashtags : 0.6066915392875671
+Twitter_hashtag_# : 0.5998335480690002
+Twitter_hashtags : 0.5733030438423157
+hashtags_# : 0.5647098422050476
+
+Words similar to sashay:
+==============================
+sashaying : 0.6826745271682739
+saunter : 0.6329501867294312
+sashayed : 0.6269592642784119
+sashays : 0.623091995716095
+Sashaying : 0.5709415078163147
+strutting : 0.5553963780403137
+prance : 0.5549360513687134
+sauntering : 0.554271399974823
+slink : 0.5470073819160461
+sauntered : 0.5298954844474792
+
+Words similar to lambent:
+==============================
+ethereality : 0.6495140790939331
+poeticism : 0.6231484413146973
+beautifully_textured : 0.6219533681869507
+gemlike : 0.6205044984817505
+subtly_shaded : 0.6163874864578247
+impeccable_phrasing : 0.6119805574417114
+effulgent : 0.6112484931945801
+melodiousness : 0.610797643661499
+ghostly_glow : 0.6074682474136353
+finely_etched : 0.6004078388214111
+
+Words similar to consigliere:
+==============================
+consigliore : 0.6485604643821716
+consiglieri : 0.609188437461853
+confidante : 0.5426182150840759
+confidant : 0.5410166382789612
+henchman : 0.5289952158927917
+underboss : 0.5220364332199097
+factotum : 0.5128828287124634
+bagman : 0.5114669799804688
+trusted_confidant : 0.5088945031166077
+Carlo_Gambino : 0.5026140809059143
+
+Words similar to pungent:
+==============================
+pungent_scent : 0.6376172304153442
+acrid : 0.6341261863708496
+fragrant : 0.6340765953063965
+subtle_sweetness : 0.6315119862556458
+peppery : 0.6270807981491089
+fragrant_aroma : 0.6184659600257874
+pungent_aroma : 0.6147640347480774
+salty : 0.6102029085159302
+perfumed : 0.6056954264640808
+spicy_aroma : 0.6054763793945312
+
+Words similar to kludge:
+==============================
+kludges : 0.6720365881919861
+kludgey : 0.6662407517433167
+kludgy : 0.635888934135437
+cruft : 0.6355363130569458
+NetworkManager : 0.6167133450508118
+OS_kernel : 0.6130903363227844
+plist_files : 0.6094715595245361
+xorg.conf : 0.6077233552932739
+async : 0.6073225140571594
+computationally_expensive : 0.6028522253036499
+
+Words similar to facilitate:
+==============================
+facilitating : 0.7363888621330261
+expedite : 0.7037354707717896
+facilitates : 0.6603866219520569
+facilitated : 0.6506648063659668
+thereby_facilitating : 0.6436413526535034
+faciliate : 0.6316494345664978
+enable : 0.6081113219261169
+enhance : 0.5972542762756348
+facilitation : 0.5852289199829102
+accelerate : 0.5804507732391357
+
+Words similar to plausible:
+==============================
+implausible : 0.7361146807670593
+far_fetched : 0.6915640830993652
+preposterous : 0.6392367482185364
+farfetched : 0.6231664419174194
+logical : 0.5995803475379944
+eminently_plausible : 0.5951209664344788
+tenable : 0.5903132557868958
+superficially_plausible : 0.5790543556213379
+believable : 0.5769100189208984
+fanciful : 0.5761380791664124
+
+Words similar to importune:
+==============================
+backbite : 0.4978056252002716
+supplicate : 0.49094516038894653
+entreat : 0.4900496304035187
+smited : 0.48912063241004944
+sermonise : 0.4864208996295929
+unheeding : 0.4829352796077728
+absolutions : 0.4762425124645233
+suppliant : 0.4696027338504791
+Satiricus : 0.4644221067428589
+Miss_Manners_assures : 0.46401625871658325
+
+Words similar to chivalry:
+==============================
+chivalric : 0.6317089200019836
+chivalrous : 0.6130111217498779
+nobility : 0.5658318996429443
+Chivalry : 0.5401155352592468
+manliness : 0.5194742679595947
+medieval_chivalry : 0.5171579122543335
+knightly : 0.4913700819015503
+manly_virtues : 0.4903584420681
+benevolent_sexism : 0.48861610889434814
+gentlemanliness : 0.48750442266464233
+
+Words similar to eponymous:
+==============================
+eponymously_named : 0.5911135077476501
+namesake : 0.5725294947624207
+eponymously_titled : 0.5128317475318909
+famed : 0.49365249276161194
+Johnnie_Boden : 0.48361021280288696
+acclaimed : 0.47979432344436646
+Barbara_Hulanicki : 0.47297558188438416
+comic_strip_Blondie : 0.470082551240921
+why_Bonnie_Mihalic : 0.465791791677475
+Ada_Bricktop_Smith : 0.46115705370903015
+
+Words similar to fulcrum:
+==============================
+lynchpin : 0.6028505563735962
+linchpin : 0.5977587103843689
+lynch_pin : 0.5870169997215271
+focal_point : 0.5356582403182983
+vital_cog : 0.48468267917633057
+mainspring : 0.4569099545478821
+touchstone : 0.4486423432826996
+linchpins : 0.44567206501960754
+catalyst : 0.44382786750793457
+fulcrums : 0.44306057691574097
+
+Words similar to satiate:
+==============================
+satisfy : 0.6809209585189819
+sate : 0.666032612323761
+satiates : 0.6243892908096313
+satiating : 0.6136544346809387
+satiated : 0.6105417013168335
+quench : 0.5964184999465942
+slake : 0.5857069492340088
+gratify : 0.5787121653556824
+whet : 0.5677001476287842
+sated : 0.548163115978241
+
+Words similar to unctuous:
+==============================
+smarmy : 0.6788307428359985
+obsequious : 0.6184071898460388
+oleaginous : 0.5816627144813538
+smarminess : 0.5803446769714355
+supercilious : 0.5766196846961975
+smarm : 0.5749220848083496
+weaselly : 0.5748411417007446
+pompous : 0.5707885026931763
+unctuousness : 0.553159773349762
+mustache_twirling : 0.5494692325592041
+
+Words similar to laden:
+==============================
+ladened : 0.6998429894447327
+loaded : 0.6040488481521606
+laded : 0.5573634505271912
+laiden : 0.5493267178535461
+laced : 0.5247592329978943
+replete : 0.516555666923523
+riddled : 0.5048900246620178
+ladden : 0.5002768039703369
+brimming : 0.49998384714126587
+filled : 0.49634435772895813
+
+Words similar to aftermath:
+==============================
+immediate_aftermath : 0.7882378697395325
+aftermaths : 0.5957141518592834
+wake : 0.5738261938095093
+fallout : 0.5446146130561829
+aftereffects : 0.510775089263916
+midst : 0.5041486024856567
+incalculable_proportions : 0.4639744758605957
+Aftermath : 0.45649218559265137
+Conflicting_casualty_counts : 0.45487654209136963
+devastations_caused : 0.45176568627357483
+
+Words similar to cordial:
+==============================
+Coach_Bowden_Spetman : 0.6807419061660767
+amicable : 0.6556351184844971
+congenial : 0.6188008189201355
+cordial_relationship : 0.5981839895248413
+cordial_atmosphere : 0.5853537321090698
+cordiality : 0.5827775597572327
+cordially : 0.5726997256278992
+amiable : 0.5720154643058777
+jovial : 0.5715368986129761
+chummy : 0.568109393119812
+
+Words similar to florescence:
+==============================
+absorption_spectra : 0.6135755181312561
+photoluminescence : 0.6093199849128723
+ferroelectricity : 0.6041326522827148
+electronic_excitations : 0.5933580994606018
+birefringence : 0.5874157547950745
+microcavities : 0.587317168712616
+microcavity : 0.5850193500518799
+cuprate : 0.5764855146408081
+plasmon : 0.5753617286682129
+photon_emission : 0.5751423239707947
+
+Words similar to engender:
+==============================
+engendering : 0.6538612842559814
+engendered : 0.6491633057594299
+engenders : 0.6459512114524841
+arouse : 0.6302196383476257
+elicit : 0.618399441242218
+provoke : 0.5960897207260132
+evoke : 0.5681060552597046
+inspire : 0.5430929660797119
+heighten : 0.5396751165390015
+create : 0.5327789783477783
+
+Words similar to maudlin:
+==============================
+mawkish : 0.7741053104400635
+sappy : 0.7335201501846313
+treacly : 0.7153905630111694
+melodramatic : 0.7153006196022034
+cloying : 0.7122070789337158
+saccharine : 0.7020700573921204
+schmaltzy : 0.6915852427482605
+overly_sentimental : 0.6826804280281067
+sentimentality : 0.6610662937164307
+melancholy : 0.6405563950538635
+
+Words similar to disapprobation:
+==============================
+opprobrium : 0.6089492440223694
+approbation : 0.5772335529327393
+obloquy : 0.5533804297447205
+denunciation : 0.5353257656097412
+castigation : 0.5348241329193115
+contumely : 0.5340020656585693
+scorn : 0.5316373705863953
+condemnation : 0.5300385355949402
+chastisement : 0.5187692046165466
+reproach : 0.5128088593482971
+
+Words similar to rarefied:
+==============================
+rarified : 0.7559226155281067
+rarified_atmosphere : 0.5761263966560364
+rarified_air : 0.562515377998352
+rarefied_air : 0.5544022917747498
+exalted : 0.5525909066200256
+rarefied_realm : 0.518389105796814
+highbrow : 0.5150993466377258
+rarefied_atmosphere : 0.5124059319496155
+rarefied_heights : 0.5048653483390808
+upper_crust : 0.49963900446891785
+
+Words similar to zephyr:
+==============================
+zephyrs : 0.6892921328544617
+breezes : 0.5983673334121704
+sea_breeze : 0.5794371366500854
+westerly_breeze : 0.5754956007003784
+breeze : 0.5714062452316284
+southerly_breeze : 0.5698975920677185
+northerlies : 0.5686339139938354
+south_easterly_breeze : 0.567595899105072
+stiff_breezes : 0.5655530691146851
+easterly_breezes : 0.5623917579650879
+
+Words similar to censure:
+==============================
+reprimand : 0.6599264144897461
+censuring : 0.6370071172714233
+Censure : 0.6121553182601929
+censured : 0.5936678051948547
+rebuke : 0.5865827798843384
+censures : 0.5744909644126892
+disciplinary_action : 0.555919885635376
+sanction : 0.5553093552589417
+censure_Rangel : 0.5396581888198853
+admonishment : 0.5306907296180725
+
+Words similar to telegenic:
+==============================
+photogenic : 0.6081948280334473
+charismatic : 0.5676403641700745
+charisma : 0.5494939684867859
+likable : 0.5395538806915283
+boyish : 0.5050868988037109
+skilled_debater : 0.4998382329940796
+personable : 0.49947434663772583
+uncharismatic : 0.4968003034591675
+brash : 0.4960014224052429
+likeable : 0.4946938455104828
+
+Words similar to gamut:
+==============================
+ranging : 0.5357781052589417
+wide_range : 0.5117318630218506
+ranged : 0.48956042528152466
+variety : 0.48402097821235657
+wide_array : 0.4727483093738556
+panoply : 0.46717363595962524
+range : 0.4646144211292267
+wide_variety : 0.4638890326023102
+varied : 0.45526188611984253
+vast_array : 0.4322258234024048
+
+Words similar to officious:
+==============================
+pompous : 0.5894807577133179
+officiousness : 0.5751588940620422
+jobsworth : 0.5700253844261169
+humorless : 0.5641477704048157
+overbearing : 0.5632941722869873
+prissy : 0.5326671004295349
+pedantic : 0.5269609093666077
+obsequious : 0.5228511095046997
+bossy : 0.5224142670631409
+nosy : 0.5218260884284973
+
+Words similar to bower:
+==============================
+bowers : 0.5889055132865906
+feathery_foliage : 0.5529728531837463
+mahonia : 0.5513830780982971
+leafless_branches : 0.5469580292701721
+Clematis_montana : 0.5447059869766235
+holly_tree : 0.5339546203613281
+marsh_marigold : 0.5322188138961792
+deciduous_holly : 0.5313936471939087
+tree_peony : 0.5303215384483337
+macrocarpa : 0.5278452038764954
+
+Words similar to adumbrate:
+==============================
+symbolisms : 0.5886000990867615
+historiographical : 0.5653398633003235
+millenarianism : 0.5594513416290283
+wishfulness : 0.5553691387176514
+Whiggish : 0.5553333759307861
+Utopianism : 0.5507060885429382
+ideational : 0.5491520166397095
+delusory : 0.5457914471626282
+Cameronism : 0.5398603677749634
+casuistry : 0.5361665487289429
+
+Words similar to hobbyhorse:
+==============================
+hobbyhorses : 0.5758406519889832
+spavined : 0.46041443943977356
+faddism : 0.45225077867507935
+noble_steed : 0.45007774233818054
+pinko_commie : 0.4449405074119568
+Fabio_complimented : 0.44301003217697144
+ideological_fanaticism : 0.4386197030544281
+Ayn_Randian : 0.43839067220687866
+elitist_snob : 0.4383210837841034
+granola_munching : 0.4355512857437134
+
+Words similar to sapient:
+==============================
+homosapiens : 0.6216731667518616
+Homo_economicus : 0.5734248161315918
+Divine_Creator : 0.5700934529304504
+celestials : 0.5692949891090393
+unevolved : 0.5661761164665222
+posthumans : 0.5641414523124695
+ratlike : 0.5627532005310059
+noosphere : 0.558552622795105
+Homo_sapien : 0.5582144856452942
+dualist : 0.551488995552063
+
+Words similar to interpolate:
+==============================
+interpolated : 0.6386467218399048
+interpolation : 0.5882195830345154
+interpolates : 0.5788378715515137
+Ordinary_kriging : 0.5713877081871033
+quantize : 0.5585013031959534
+sine_cosine : 0.5427495837211609
+interpolating : 0.5422750115394592
+trigonometric_functions : 0.5238860845565796
+vertex_shader : 0.5140630006790161
+Ordinary_Kriging : 0.5112173557281494
+
+Words similar to sacrosanct:
+==============================
+inviolable : 0.6310147643089294
+inviolate : 0.63031005859375
+sacred_cow : 0.5720434188842773
+anathema : 0.565680980682373
+sacred : 0.5656282305717468
+sanctity : 0.5193525552749634
+jealously_guarded : 0.5181711912155151
+cherished : 0.5129212737083435
+non_negotiable : 0.48938438296318054
+antithetical : 0.48587608337402344
+
+Words similar to nemesis:
+==============================
+nemeses : 0.7559473514556885
+arch_nemesis : 0.7539018988609314
+foe : 0.697407066822052
+archnemesis : 0.6756633520126343
+adversary : 0.6698328852653503
+tormentor : 0.6363734602928162
+nemisis : 0.628134548664093
+arch_enemy : 0.6263229250907898
+villain : 0.5901857018470764
+foes : 0.5849578380584717
+
+Words similar to enthrall:
+==============================
+captivate : 0.780174195766449
+mesmerize : 0.7076652646064758
+enchant : 0.6933495998382568
+mesmerise : 0.6749197244644165
+enthrall_audiences : 0.662045419216156
+fascinate : 0.6555419564247131
+enthrals : 0.6444975733757019
+astound : 0.6327986717224121
+dazzle : 0.6282052993774414
+astonish : 0.6226413249969482
+
+Words similar to shenanigans:
+==============================
+chicanery : 0.707802414894104
+antics : 0.6934409141540527
+machinations : 0.6767441630363464
+hijinks : 0.6742903590202332
+skullduggery : 0.6480948328971863
+skulduggery : 0.6328604817390442
+tomfoolery : 0.6283115744590759
+hijinx : 0.6235515475273132
+high_jinks : 0.6215718984603882
+maneuverings : 0.5895779728889465
+
+Words similar to infantilize:
+==============================
+infantilizes : 0.6319038271903992
+infantilise : 0.62386554479599
+overprotect : 0.611048698425293
+sexualize : 0.6024777293205261
+pathologize : 0.5996447801589966
+infantilising : 0.5897821187973022
+disempowers : 0.5834659337997437
+infantilizing : 0.5806005597114563
+overly_sexualized : 0.5758245587348938
+ethically_repugnant : 0.5750303864479065
+
+Words similar to belated:
+==============================
+Belated : 0.5485649704933167
+belatedly : 0.5415827631950378
+long_awaited : 0.5112243890762329
+overdue : 0.4981258809566498
+grudging : 0.47955214977264404
+triumphant : 0.45599448680877686
+hasty : 0.44933149218559265
+perfunctory : 0.44756338000297546
+tardy : 0.43455255031585693
+halfhearted : 0.43201348185539246
+
+Words similar to gerrymander:
+==============================
+gerrymandering : 0.7209216356277466
+gerrymandered : 0.6945900321006775
+gerrymanders : 0.678838312625885
+partisan_gerrymander : 0.6201858520507812
+partisan_gerrymandering : 0.5869723558425903
+redraw : 0.5869020819664001
+Gerrymandering : 0.5844018459320068
+redistricting : 0.5822820067405701
+gerrymandered_districts : 0.5717398524284363
+redistrict : 0.5579684376716614
+
+Words similar to seder:
+==============================
+Passover_seder : 0.8036562204360962
+Passover_Seder : 0.7910425066947937
+Seder : 0.7895205616950989
+Seders : 0.7057246565818787
+Shabbat_dinner : 0.6982752680778503
+Seder_meal : 0.6932710409164429
+seders : 0.6888203620910645
+Passover_Seders : 0.6697564721107483
+Passover_seders : 0.6577911972999573
+Passover_meal : 0.656220018863678
+
+Words similar to equivocal:
+==============================
+ambiguous : 0.6140202283859253
+unequivocal : 0.5358150005340576
+ambivalent : 0.5174234509468079
+non_committal : 0.511547863483429
+noncommittal : 0.5103024244308472
+vague : 0.49920743703842163
+contradictory : 0.49581071734428406
+evasive : 0.49220210313796997
+categorical : 0.4896560609340668
+unforthcoming : 0.48938095569610596
+
+Words similar to circumscribe:
+==============================
+circumscribing : 0.5832250118255615
+delimit : 0.5554642677307129
+abridge : 0.5468651652336121
+constrain : 0.5460082292556763
+restrict : 0.5431675910949707
+circumscribes : 0.5422075986862183
+circumscribed : 0.5377640724182129
+denude : 0.5176703929901123
+particularistic : 0.5134956240653992
+impinge_upon : 0.5133236050605774
+
+Words similar to auspicious:
+==============================
+inauspicious : 0.7158912420272827
+propitious : 0.5744543075561523
+Lunar_Calendar : 0.5323163270950317
+auspicious_occasion : 0.5222910642623901
+Akshya_Tritiya : 0.5185888409614563
+Makar_Sakranti : 0.4971619248390198
+Akshay_Tritiya : 0.4958372414112091
+auspiciousness : 0.48677608370780945
+amavasya : 0.48535317182540894
+Akshaya_Tritiya_festival : 0.4843105971813202
+
+Words similar to foible:
+==============================
+foibles : 0.5649354457855225
+faux_pas : 0.5393469929695129
+peccadillo : 0.524787425994873
+solecism : 0.5152378082275391
+misstep : 0.511627197265625
+follies : 0.4932975471019745
+transgression : 0.48626813292503357
+imperfection : 0.48500287532806396
+klutziness : 0.4791441857814789
+cardinal_sins : 0.4774450659751892
+
+Words similar to oracular:
+==============================
+gnomic : 0.5836784839630127
+delphic : 0.5828908085823059
+orotund : 0.55959552526474
+aphoristic : 0.5555055737495422
+omniscient : 0.5490589141845703
+Delphic_oracle : 0.5476869940757751
+divines : 0.5377963185310364
+sapient : 0.5316466093063354
+inscrutable : 0.5307052135467529
+cogitations : 0.5279757380485535
+
+Words similar to vicinity:
+==============================
+immediate_vicinity : 0.6954866647720337
+close_proximity : 0.6296094059944153
+nearby : 0.6018983721733093
+area : 0.5610873699188232
+near : 0.5593059062957764
+vicinities : 0.5496883988380432
+adjacent : 0.5342583060264587
+closeby : 0.5300061106681824
+vacinity : 0.5200949907302856
+km_radius : 0.492272287607193
+
+Words similar to lackadaisical:
+==============================
+lethargic : 0.6635206937789917
+sloppy : 0.6536197662353516
+lackadaisical_attitude : 0.6050720810890198
+nonchalant : 0.5838502049446106
+sloppiness : 0.5609867572784424
+complacent : 0.5475249290466309
+lax : 0.5467290878295898
+slipshod : 0.5449053049087524
+inept : 0.5306575298309326
+timid : 0.5232012867927551
+
+Words similar to contraption:
+==============================
+contraptions : 0.664336621761322
+gizmo : 0.5582435727119446
+doohickey : 0.5472725033760071
+Rube_Goldberg_contraptions : 0.5379562973976135
+thingamajig : 0.5220143795013428
+eggbeater : 0.514025866985321
+Rube_Goldberg_contraption : 0.5125538110733032
+robot : 0.5092210173606873
+egg_beater : 0.506047248840332
+erector_set : 0.5059641599655151
+
+Words similar to pacify:
+==============================
+placate : 0.7022029161453247
+appease : 0.6527278423309326
+pacifying : 0.6347646713256836
+mollify : 0.6325961351394653
+quell : 0.6039907336235046
+assuage : 0.6012140512466431
+pacified : 0.5872464776039124
+soothe : 0.5509130954742432
+convince : 0.5402675867080688
+allay : 0.5287718772888184
+
+Words similar to hackles:
+==============================
+eyebrows : 0.6779654622077942
+ire : 0.6010525822639465
+quizzical_eyebrow : 0.5558210611343384
+eye_brows : 0.5274075269699097
+riled : 0.5250453948974609
+rankled : 0.5217016935348511
+irk : 0.5178228616714478
+raised_hackles : 0.507642388343811
+raised_eyebrows : 0.5050410628318787
+irked : 0.503597617149353
+
+Words similar to dolorous:
+==============================
+melancholy : 0.6378729343414307
+plangent : 0.613638699054718
+melancholic : 0.5988887548446655
+elegiac : 0.5969571471214294
+pensiveness : 0.5927722454071045
+doleful : 0.5921015739440918
+lugubrious : 0.5810467600822449
+lachrymose : 0.5807284116744995
+plinky : 0.5763205289840698
+mournful : 0.5740799903869629
+
+Words similar to undergird:
+==============================
+underpinning : 0.5538994073867798
+undergirds : 0.5523282885551453
+underpin : 0.5379515886306763
+undergirded : 0.5167209506034851
+undergirding : 0.49917614459991455
+foundational : 0.4953560531139374
+antithetical : 0.48711422085762024
+underlie : 0.47920966148376465
+bedrock : 0.45500272512435913
+undermine : 0.4471931755542755
+
+Words similar to fortitude:
+==============================
+courage : 0.771481454372406
+tenacity : 0.7122859954833984
+perseverance : 0.674322783946991
+intestinal_fortitude : 0.6694812774658203
+resilience : 0.6530742645263672
+gumption : 0.6501829624176025
+resourcefulness : 0.6317592263221741
+determination : 0.6143788695335388
+willpower : 0.6139145493507385
+moxie : 0.6066890954971313
+
+Words similar to wistful:
+==============================
+melancholy : 0.7321964502334595
+melancholic : 0.6948463320732117
+nostalgic : 0.6511367559432983
+wistfulness : 0.6428831815719604
+elegiac : 0.6378304958343506
+rueful : 0.6359160542488098
+dreamy : 0.6308119297027588
+wife_Liu_Yingchun : 0.6284970641136169
+pensive : 0.6271011233329773
+mournful : 0.6197865605354309
+
+Words similar to beguile:
+==============================
+seduce : 0.5986000299453735
+bewitch : 0.5789361000061035
+mesmerize : 0.5691508650779724
+enchant : 0.5527247190475464
+enrapture : 0.5467299222946167
+captivate : 0.5419148802757263
+beguiled : 0.5385676622390747
+mesmerise : 0.5346129536628723
+spellbind : 0.5301017761230469
+dazzle : 0.5172783136367798
+
+Words similar to gravamen:
+==============================
+arbitrability : 0.5930599570274353
+Defendant_asserts : 0.585715651512146
+anti_SLAPP_statute : 0.5849011540412903
+unconscionability : 0.5843154191970825
+factually_distinguishable : 0.5840393900871277
+p_laintiff : 0.583516001701355
+d_efendants : 0.5813381671905518
+facially_invalid : 0.5800641179084778
+equitable_estoppel : 0.576732337474823
+declaratory_relief : 0.5765852332115173
+
+Words similar to reprehensible:
+==============================
+despicable : 0.8195798397064209
+disgraceful : 0.73872971534729
+repugnant : 0.7362063527107239
+abhorrent : 0.7176384925842285
+shameful : 0.7076972723007202
+disgusting : 0.7068221569061279
+outrageous : 0.6937458515167236
+unconscionable : 0.6885677576065063
+contemptible : 0.6847080588340759
+heinous : 0.6765320301055908
+
+Words similar to orthography:
+==============================
+Cyrillic_alphabet : 0.6548459529876709
+loanwords : 0.6333494782447815
+Romanization : 0.6296162605285645
+transliterations : 0.6132937073707581
+diacritical_marks : 0.6109412312507629
+transliterating : 0.5980108976364136
+Devanagari : 0.5868579745292664
+ideographic : 0.5828920006752014
+irregular_verbs : 0.5813260674476624
+declensions : 0.5795735120773315
+
+Words similar to carouse:
+==============================
+smoke_cigars : 0.5019755959510803
+bon_vivants : 0.5015565752983093
+carousers : 0.49856093525886536
+trustafarians : 0.4967051148414612
+caroused : 0.4935488700866699
+philander : 0.4917025864124298
+cavort : 0.4849584400653839
+fraternize : 0.4845716953277588
+wenching : 0.4782903790473938
+wenches : 0.477077454328537
+
+Words similar to vicissitudes:
+==============================
+vagaries : 0.7247368693351746
+travails : 0.54914790391922
+harsher_realities : 0.5454088449478149
+exigencies : 0.5427760481834412
+upheavals : 0.5375420451164246
+adversities : 0.5237268805503845
+harsh_realities : 0.5226327776908875
+realities : 0.5209888815879822
+vicissitude : 0.5149595737457275
+turmoils : 0.5092164874076843
+
+Words similar to arboreal:
+==============================
+lianas : 0.5548292994499207
+maples_oaks : 0.5354672074317932
+tulip_poplars : 0.5346642136573792
+strangler_fig : 0.5345731377601624
+manzanitas : 0.5321291089057922
+yaupon_holly : 0.5319030284881592
+gracefully_arching : 0.5271706581115723
+oak_groves : 0.5248285531997681
+holm_oak : 0.5242825746536255
+endemic_flora : 0.5240163207054138
+
+Words similar to expedite:
+==============================
+expediting : 0.7410430312156677
+facilitate : 0.7037355303764343
+expedited : 0.6807442307472229
+expeditious : 0.668687641620636
+streamline : 0.6314975023269653
+accelerate : 0.6148015856742859
+hasten : 0.5761033892631531
+expeditiously : 0.5739725232124329
+fasttrack : 0.5678953528404236
+expedites : 0.5678829550743103
+
+Words similar to sinecure:
+==============================
+sinecures : 0.6724498271942139
+cushy : 0.5549554228782654
+plum : 0.5159235000610352
+preferment : 0.5035029649734497
+crony : 0.48974570631980896
+placeman : 0.4822802245616913
+dogsbody : 0.48168930411338806
+golden_handshake : 0.4801883101463318
+ambassadorial_posts : 0.4732007384300232
+ambassadorship : 0.46620380878448486
+
+Words similar to fresco:
+==============================
+frescoes : 0.7094104290008545
+frescos : 0.6566535234451294
+Masaccio : 0.6317945122718811
+Piero_della_Francesca : 0.6169644594192505
+Guercino : 0.616391122341156
+Sistine_ceiling : 0.6091434955596924
+Ghirlandaio : 0.6043965220451355
+Michelangelo : 0.6033558249473572
+Andrea_del_Sarto : 0.6020800471305847
+Altarpiece : 0.5965749621391296
+
+Words similar to contretemps:
+==============================
+dustup : 0.6753522753715515
+spat : 0.6465362310409546
+kerfuffle : 0.6437869668006897
+brouhaha : 0.6410415768623352
+tiff : 0.6392568945884705
+imbroglio : 0.6108984351158142
+squabble : 0.5933535099029541
+fracas : 0.5931701064109802
+spats : 0.5901854634284973
+skirmish : 0.5650317072868347
+
+Words similar to accentuate:
+==============================
+accentuating : 0.6794723868370056
+accentuates : 0.6609098315238953
+emphasize : 0.5980616211891174
+accentuated : 0.5964038968086243
+Accentuating : 0.555649995803833
+magnify : 0.5528441071510315
+amplify : 0.5455271005630493
+embellish : 0.5331724286079407
+evoke : 0.5238049030303955
+highlight : 0.5003340244293213
+
+Words similar to proximate:
+==============================
+proximately : 0.48672229051589966
+close_proximity : 0.4663183391094208
+proximate_cause : 0.45255517959594727
+proximity : 0.4415706694126129
+proximately_caused : 0.4258008897304535
+coextensive : 0.4250894784927368
+proximities : 0.407116562128067
+temporal_proximity : 0.40535464882850647
+consequence : 0.3937831223011017
+foreseeability : 0.39156845211982727
+
+Words similar to repartee:
+==============================
+banter : 0.722882866859436
+witty_banter : 0.654485821723938
+badinage : 0.6447017192840576
+repartees : 0.6320707201957703
+patter : 0.615495502948761
+witty : 0.6137985587120056
+humorous_banter : 0.6105865240097046
+witty_repartee : 0.6057332754135132
+playful_banter : 0.604158341884613
+bantering : 0.5895474553108215
+
+Words similar to vindicate:
+==============================
+vindicated : 0.6570035815238953
+vindicates : 0.5878262519836426
+exonerate : 0.5432878136634827
+contradict : 0.5408141016960144
+vindication : 0.5309172868728638
+vindicating : 0.5188409686088562
+discredit : 0.5108714699745178
+exculpate : 0.50790935754776
+uphold : 0.5031867027282715
+defend : 0.49998605251312256
+
+Words similar to laudable:
+==============================
+commendable : 0.6899516582489014
+praiseworthy : 0.6480844020843506
+Laudable : 0.6469838619232178
+admirable : 0.6277188062667847
+noble : 0.6136556267738342
+well_intentioned : 0.5680071115493774
+applaudable : 0.5331486463546753
+misguided : 0.5095833539962769
+salutary : 0.5052419900894165
+deserves_commendation : 0.49833106994628906
+
+Words similar to cahoots:
+==============================
+colluding : 0.6216269731521606
+connivance : 0.610054612159729
+connived : 0.5860175490379333
+collusion : 0.5640780329704285
+colluded : 0.5632067918777466
+complicit : 0.5483686923980713
+conniving : 0.5480976104736328
+connive : 0.5422803163528442
+collude : 0.5382875800132751
+unholy_alliance : 0.5226736068725586
+
+Words similar to ingratiate:
+==============================
+endear : 0.6157070398330688
+embarrass : 0.5781073570251465
+ingratiate_himself : 0.5774582028388977
+marginalize : 0.5624324679374695
+alienate : 0.5568475127220154
+appease : 0.5521501898765564
+ingratiate_themselves : 0.5517511963844299
+placate : 0.5408678650856018
+antagonize : 0.5271266102790833
+estrange : 0.5233020186424255
+
+Words similar to factotum:
+==============================
+dogsbody : 0.6212665438652039
+amanuensis : 0.5923593640327454
+major_domo : 0.5888509750366211
+flunky : 0.5731663703918457
+gofer : 0.5717203617095947
+errand_boy : 0.5413949489593506
+sycophant : 0.5368880033493042
+manservant : 0.5323879718780518
+consigliore : 0.5228173732757568
+paterfamilias : 0.5131528973579407
+
+Words similar to scrupulous:
+==============================
+assiduous : 0.6312066912651062
+meticulous : 0.6222441792488098
+diligent : 0.6197707653045654
+fastidious : 0.6062355041503906
+punctilious : 0.5884969830513
+conscientious : 0.5855538249015808
+scrupulously : 0.5637327432632446
+careful : 0.5367513298988342
+zealous : 0.5172572135925293
+meticulousness : 0.5034435391426086
+
+Words similar to divulge:
+==============================
+disclose : 0.7924721837043762
+divulged : 0.7239172458648682
+reveal : 0.7201724052429199
+divulging : 0.6509717702865601
+divulge_specifics : 0.6210642457008362
+Without_divulging : 0.6210362315177917
+remained_tight_lipped : 0.6119425892829895
+specify : 0.5880112051963806
+tight_lipped : 0.5661875009536743
+elaborate : 0.5593799948692322
+
+Words similar to apotheosis:
+==============================
+zenith : 0.6195098757743835
+apogee : 0.6034100651741028
+acme : 0.5782328248023987
+pinnacle : 0.5550193786621094
+embodiment : 0.5012003183364868
+postmodern : 0.4990258514881134
+phantasm : 0.48906949162483215
+fin_de_siecle : 0.4870750308036804
+reductio_ad_absurdum : 0.47924619913101196
+Caesarism : 0.47366252541542053
+
+Words similar to gallivant:
+==============================
+gallivanting : 0.6305069923400879
+gallivanted : 0.5577849745750427
+traipsing : 0.5436035990715027
+jaunts : 0.5263328552246094
+cavort : 0.5236924886703491
+swanning : 0.5186690092086792
+gallivants : 0.5111304521560669
+gadding : 0.5057961344718933
+traipse : 0.5057164430618286
+galavanting : 0.5055003762245178
+
+Words similar to nadir:
+==============================
+zenith : 0.6565801501274109
+lowest_ebb : 0.6154047846794128
+apogee : 0.5641304850578308
+lowpoint : 0.5597817897796631
+peak : 0.49819228053092957
+acme : 0.4896606504917145
+pinnacle : 0.4835604131221771
+giddy_heights : 0.4744563400745392
+nadirs : 0.4683849513530731
+apotheosis : 0.46077466011047363
+
+Words similar to heterodox:
+==============================
+dispensationalism : 0.6014041900634766
+heterodoxy : 0.5963515639305115
+rationalistic : 0.5922947525978088
+heretical : 0.5882604122161865
+monism : 0.582106351852417
+orthodox : 0.5785872340202332
+liberalist : 0.576284646987915
+radical_individualism : 0.5705556869506836
+neo_classical_economics : 0.5695500373840332
+universalistic : 0.5662487745285034
+
+Words similar to lacuna:
+==============================
+lacunae : 0.7422618865966797
+lacunas : 0.7004243731498718
+gaps : 0.5370891690254211
+constitutional_infirmities : 0.532322347164154
+shortcoming : 0.5217080116271973
+inadequacies : 0.5013539791107178
+ambiguities : 0.49386316537857056
+yawning_gap : 0.4937257468700409
+infelicities : 0.48800724744796753
+fundamental_flaw : 0.4828246235847473
+
+Words similar to tactile:
+==============================
+tactility : 0.667201042175293
+tactile_sensation : 0.653581440448761
+tactile_feedback : 0.6120774149894714
+haptic : 0.5931028723716736
+sensory : 0.5800166130065918
+multi_sensorial : 0.5798372626304626
+visual : 0.5737646222114563
+haptic_feedback : 0.5730859041213989
+tactilely : 0.5730240941047668
+tactile_cues : 0.5707520246505737
+
+Words similar to kith:
+==============================
+kiths : 0.6065806150436401
+kinsmen : 0.5592966675758362
+Bandaranaikes : 0.5282962322235107
+Idomas : 0.4974820613861084
+whiteman : 0.49518153071403503
+Lozis : 0.4928893744945526
+chamchas : 0.4872366786003113
+Gujaratis : 0.4832868278026581
+sardars : 0.48322805762290955
+Tivs : 0.4831165075302124
+
+Words similar to fawn:
+==============================
+fawns : 0.7201142907142639
+twin_fawns : 0.580695390701294
+doe : 0.5779829025268555
+pups : 0.5753740072250366
+pup : 0.5685054063796997
+moose_calves : 0.565779983997345
+cub : 0.5643950700759888
+newborn_fawn : 0.555722713470459
+gosling : 0.5530918836593628
+deer_fawns : 0.5506464838981628
+
+Words similar to obdurate:
+==============================
+stubborn : 0.6027776002883911
+obstinate : 0.6018962264060974
+resolute : 0.5899640321731567
+obduracy : 0.5760942101478577
+doughty : 0.5538880825042725
+cussedness : 0.5487173199653625
+intransigent : 0.5372781753540039
+imperious : 0.5365048050880432
+obdurately : 0.5249669551849365
+tigerish : 0.5206329822540283
+
+Words similar to symbiosis:
+==============================
+symbiotic_relationship : 0.7153640389442444
+symbiotic : 0.6321499347686768
+symbiotic_relationships : 0.6124686598777771
+dichotomy : 0.5483007431030273
+interplay : 0.5464640855789185
+mutualistic_relationship : 0.5396460294723511
+mutualism : 0.5391619801521301
+synergy : 0.536199152469635
+interrelationship : 0.5302777886390686
+interrelation : 0.5245441794395447
+
+Words similar to zany:
+==============================
+wacky : 0.7820362448692322
+madcap : 0.7370813488960266
+kooky : 0.7119808197021484
+goofy : 0.7106108069419861
+quirky : 0.6902326941490173
+hilarious : 0.6716631054878235
+comical : 0.6586458086967468
+oddball : 0.6461710929870605
+whimsical : 0.6414622664451599
+daffy : 0.6326468586921692
+
+Words similar to cavalcade:
+==============================
+procession : 0.5913035869598389
+motorcade : 0.5645747184753418
+cavalcades : 0.5411472916603088
+parade : 0.5088759660720825
+caravan : 0.5053148865699768
+Motorcades : 0.5037038922309875
+motorcades : 0.5023645758628845
+cortege : 0.4696142077445984
+convoy : 0.4688834846019745
+rath : 0.4622708261013031
+
+Words similar to disparate:
+==============================
+Disparate : 0.5915723443031311
+heterogeneous : 0.5828357338905334
+divergent : 0.5779217481613159
+seemingly_disparate : 0.5741415023803711
+overlapping : 0.5062031149864197
+geographically_disparate : 0.5047884583473206
+siled : 0.49847814440727234
+disparate_silos : 0.49741503596305847
+wildly_divergent : 0.4872804582118988
+diverse : 0.4850574731826782
+
+Words similar to bildungsroman:
+==============================
+Bildungsroman : 0.6677221059799194
+picaresque_novel : 0.6375563144683838
+Pregnant_Widow : 0.6064215898513794
+hardboiled_detective : 0.6024937033653259
+Un_Lun_Dun : 0.5992736220359802
+magical_realist : 0.5958026051521301
+epistolary_novel : 0.5951036810874939
+descriptive_prose : 0.5947248935699463
+chicklit : 0.5922173261642456
+Benjamin_Markovits : 0.5894022583961487
+
+Words similar to immaculate:
+==============================
+impeccable : 0.6876994371414185
+immaculately : 0.6336345672607422
+spotless : 0.613121509552002
+exquisite : 0.6049765348434448
+superb : 0.5846019387245178
+magnificent : 0.577897846698761
+faultless : 0.5771356821060181
+immaculately_clean : 0.5768100023269653
+splendid : 0.5758126378059387
+pristine : 0.5676256418228149
+
+Words similar to golem:
+==============================
+Golem : 0.6212790608406067
+golems : 0.5851947665214539
+Golems : 0.5657557249069214
+Rabbi_Loew : 0.5514681935310364
+Maharal : 0.54747074842453
+Samanosuke : 0.5405400991439819
+Morgoth : 0.529335081577301
+demoness : 0.5293295383453369
+Johann_Krauss : 0.526190459728241
+demon_lord : 0.5239969491958618
+
+Words similar to recuse:
+==============================
+recused : 0.7454204559326172
+recuse_himself : 0.6927264928817749
+recusing : 0.6702083349227905
+recusal : 0.6204450130462646
+recuse_herself : 0.6147175431251526
+recuse_myself : 0.5995877981185913
+recuse_themselves : 0.5994048118591309
+recusing_himself : 0.572375476360321
+judges_recused : 0.5587092638015747
+disqualify : 0.5584160685539246
+
+Words similar to eleemosynary:
+==============================
+pervasively_sectarian : 0.5234967470169067
+noblesse_oblige : 0.5115870237350464
+Webster_Dictionary_defines : 0.5074502229690552
+common_weal : 0.5036872029304504
+beneficent : 0.49819260835647583
+ceremonial_deism : 0.48121318221092224
+noncharitable : 0.4804209768772125
+Judeo_Christian_ethic : 0.4796227514743805
+Judeo_Christian_religions : 0.47742223739624023
+benevolent_dictators : 0.4769534468650818
+
+Words similar to portend:
+==============================
+portends : 0.7729194760322571
+foreshadow : 0.7676194906234741
+presage : 0.7549357414245605
+foretell : 0.7138288617134094
+harbinger : 0.6721763014793396
+bode_well : 0.6669452786445618
+augur : 0.647613525390625
+herald : 0.6458569169044495
+bode : 0.6360683441162109
+presages : 0.6296623945236206
+
+Words similar to challah:
+==============================
+challah_bread : 0.7531412243843079
+challahs : 0.7121227979660034
+Challah_bread : 0.6947121024131775
+kugel : 0.6845707893371582
+Challah : 0.6776077151298523
+matzo : 0.6708785891532898
+hamantaschen : 0.669208824634552
+cholent : 0.6569333076477051
+matzah : 0.6508220434188843
+hamantashen : 0.6493397951126099
+
+Words similar to scrutinize:
+==============================
+scrutinizing : 0.7345167398452759
+examine : 0.6894610524177551
+scrutinized : 0.6507109999656677
+scrutinizes : 0.6190233826637268
+carefully_scrutinize : 0.6092838048934937
+analyze : 0.5753495097160339
+evaluate : 0.5696157217025757
+examining : 0.5678023099899292
+investigate : 0.5566081404685974
+inspect : 0.5559622049331665
+
+Words similar to weal:
+==============================
+Kumawuman_citizens : 0.5343800783157349
+common_weal : 0.5304479598999023
+commonweal : 0.5094869136810303
+greed_avarice : 0.4965072572231293
+baser_desires : 0.48782142996788025
+Kumawuman : 0.48750802874565125
+trodden_masses : 0.4808570146560669
+prodigality : 0.4762876629829407
+mammon : 0.47378453612327576
+self_centredness : 0.47026875615119934
+
+Words similar to fraught:
+==============================
+frought : 0.6239011883735657
+rife : 0.5834062099456787
+riddled : 0.5320891737937927
+complicated : 0.516160786151886
+freighted : 0.5061761736869812
+messy : 0.5024893283843994
+Fraught : 0.5020807385444641
+tortuous : 0.4918849766254425
+replete : 0.4917604923248291
+perilous : 0.4876006543636322
+
+Words similar to acquiesce:
+==============================
+accede : 0.6593183279037476
+capitulate : 0.630929708480835
+acquiesced : 0.6234662532806396
+acquiescence : 0.6129419207572937
+acquiescing : 0.6052381992340088
+accept : 0.5665961503982544
+kowtow : 0.5570769906044006
+acquiesces : 0.5401288866996765
+accedes : 0.5270299911499023
+kow_tow : 0.520843505859375
+
+Words similar to despot:
+==============================
+dictator : 0.7781255841255188
+tyrant : 0.7731889486312866
+despots : 0.7021984457969666
+autocrat : 0.6530314683914185
+dictators : 0.647146463394165
+bloodthirsty_tyrant : 0.6457327008247375
+despotic_ruler : 0.6403883099555969
+despotic : 0.6192561984062195
+tyrants : 0.6023336052894592
+despotic_rulers : 0.5992681980133057
+
+Words similar to vapid:
+==============================
+vacuous : 0.7827561497688293
+inane : 0.6503371000289917
+self_indulgent : 0.6210874915122986
+banal : 0.6153168082237244
+airhead : 0.6011916399002075
+trite : 0.5977312922477722
+solipsistic : 0.5950593948364258
+hollow_charade : 0.5856353640556335
+airheads : 0.5840944051742554
+self_absorbed : 0.5803638696670532
+
+Words similar to besotted:
+==============================
+smitten : 0.7804841995239258
+infatuated : 0.7114570736885071
+obsessed : 0.6239383220672607
+entranced : 0.6049225330352783
+seduced : 0.6003239750862122
+instantly_smitten : 0.5955605506896973
+enamored : 0.5925450921058655
+madly : 0.5814472436904907
+enraptured : 0.5687164664268494
+adores : 0.5590877532958984
+
+Words similar to gambit:
+==============================
+ploy : 0.6566195487976074
+gambits : 0.6143236756324768
+tactic : 0.5866044759750366
+stratagem : 0.5672059059143066
+masterstroke : 0.5225472450256348
+brinkmanship : 0.49436649680137634
+PR_stunt : 0.49307242035865784
+gamble : 0.4790028929710388
+underhanded_tactic : 0.47743016481399536
+ruse : 0.4766213297843933
+
+Words similar to coquetry:
+==============================
+voluptuousness : 0.6168593168258667
+girlishness : 0.611070454120636
+flirtatiousness : 0.6041855812072754
+gorgeousness : 0.6013528108596802
+womanliness : 0.5930790305137634
+girliness : 0.5913956165313721
+dowdiness : 0.5853084921836853
+daintiness : 0.5833595395088196
+stereotypically_feminine : 0.5777155756950378
+prettiness : 0.5776486396789551
+
+Words similar to divest:
+==============================
+divesting : 0.8041426539421082
+divested : 0.7209497094154358
+divestment : 0.6881892681121826
+divestiture : 0.6409105658531189
+divests : 0.6225423216819763
+disinvest : 0.6157885789871216
+Divesting : 0.5999416708946228
+acquire : 0.5681718587875366
+demerge : 0.5530778169631958
+sell : 0.5280546545982361
+
+Words similar to lyrical:
+==============================
+lyricism : 0.7867330312728882
+melodic : 0.7582306265830994
+lyrically : 0.7263498902320862
+poetic : 0.721822202205658
+lyrics : 0.6868851780891418
+melody : 0.6828659176826477
+lyric : 0.6731570959091187
+soulful : 0.6725630760192871
+musicality : 0.6556625366210938
+virtuosic : 0.648698627948761
+
+Words similar to anachronism:
+==============================
+anachronistic : 0.710870087146759
+outmoded : 0.6167269349098206
+archaic : 0.613503098487854
+relic : 0.6038064360618591
+quaint_relic : 0.5861175656318665
+antiquated : 0.5607927441596985
+bygone_era : 0.5407774448394775
+outdated : 0.5403163433074951
+passé : 0.5360317230224609
+obsolete : 0.5294369459152222
+
+Words similar to impromptu:
+==============================
+impromtu : 0.7171000242233276
+informal : 0.5331169366836548
+hourlong : 0.5110025405883789
+unscheduled : 0.5091785192489624
+improvised : 0.5056332945823669
+impromptu_jam : 0.49493691325187683
+unrehearsed : 0.4852205514907837
+spontaneous : 0.48223617672920227
+makeshift : 0.45464888215065
+Impromptu : 0.4541480541229248
+
+Words similar to cleave:
+==============================
+cleaving : 0.5858330130577087
+cleaves : 0.5598622560501099
+cleaved : 0.5418674349784851
+sunder : 0.45885932445526123
+derange : 0.45778709650039673
+meld : 0.4537152051925659
+hew : 0.4314894378185272
+impale : 0.42703112959861755
+coalesce : 0.42431163787841797
+conjoin : 0.42191779613494873
+
+Words similar to prerogative:
+==============================
+perogative : 0.6696437001228333
+sole_prerogative : 0.6501044034957886
+unfettered_discretion : 0.6181410551071167
+prerogatives : 0.5963129997253418
+discretion : 0.5782024264335632
+constitutionally_empowered : 0.5545429587364197
+constitutional_prerogatives : 0.5264278054237366
+carte_blanche : 0.5004997849464417
+answerable : 0.4880039691925049
+impermissible_intrusion : 0.4853641986846924
+
+Words similar to onerous:
+==============================
+burdensome : 0.8219995498657227
+restrictive : 0.6557955741882324
+cumbersome : 0.6246253252029419
+unnecessarily_burdensome : 0.5597606301307678
+overly_restrictive : 0.5594797730445862
+overly_burdensome : 0.5524638891220093
+unworkable : 0.5466067790985107
+prohibitive : 0.5438092350959778
+streamlined_legally_defensible : 0.5399170517921448
+Onerous : 0.5321025848388672
+
+Words similar to rectify:
+==============================
+rectifying : 0.73904949426651
+rectified : 0.7084445357322693
+fix : 0.6334233283996582
+remedy : 0.61337810754776
+remedying : 0.5980340838432312
+remedied : 0.5958191156387329
+redress : 0.5927115678787231
+correct : 0.587340235710144
+correcting : 0.5751206278800964
+corrected : 0.5715497732162476
+
+Words similar to tantamount:
+==============================
+akin : 0.6224591135978699
+tantamounts : 0.5496572256088257
+preferable : 0.5285562872886658
+condoning : 0.4975545406341553
+counter_productive : 0.4956057071685791
+equated : 0.49373185634613037
+prerequisite : 0.4919135868549347
+anathema : 0.4865054786205292
+implicitly_condoning : 0.48610296845436096
+precludes : 0.4841090738773346
+
+Words similar to hiatus:
+==============================
+sabbatical : 0.6198558807373047
+haitus : 0.5949958562850952
+indefinite_hiatus : 0.5602561235427856
+hiatuses : 0.5201389193534851
+yearlong_hiatus : 0.5025200247764587
+stint : 0.4574624300003052
+Hiatus : 0.4438576102256775
+layoff : 0.4399154782295227
+reinstalled_loudspeakers : 0.4251944124698639
+lull : 0.4206121265888214
+
+Words similar to nurture:
+==============================
+nurturing : 0.7268422842025757
+nuture : 0.7205139994621277
+cultivate : 0.6695472002029419
+nurtured : 0.640386700630188
+nurtures : 0.6367365717887878
+nourish : 0.6110044717788696
+commanded_biblically : 0.5977687835693359
+incubate : 0.5742166638374329
+Nurture : 0.5485302805900574
+nuturing : 0.5447713732719421
+
+Words similar to foray:
+==============================
+forays : 0.7611157894134521
+venture : 0.6021103858947754
+forayed : 0.5902166366577148
+forray : 0.5621399879455566
+foraying : 0.5577142238616943
+venturing : 0.5425150394439697
+inroad : 0.534885585308075
+inroads : 0.5338842868804932
+ventured : 0.5285460948944092
+ventures : 0.47315579652786255
+
+Words similar to ersatz:
+==============================
+faux : 0.6538913249969482
+pseudo : 0.5960353016853333
+simulacra : 0.5411064624786377
+simulacrum : 0.525773823261261
+monumentalism : 0.5112562775611877
+imaginary : 0.5021957159042358
+overdecorated : 0.4973755180835724
+déclassé : 0.49592119455337524
+onanistic : 0.49415358901023865
+resembling : 0.4894505739212036
+
+Words similar to stultify:
+==============================
+fetter : 0.5287621021270752
+homogenise : 0.5281406044960022
+scandalise : 0.5188058614730835
+stultified : 0.5145825743675232
+gainsaid : 0.5062627792358398
+disabuse_ourselves : 0.5055639147758484
+stultification : 0.49958336353302
+revolutionalise : 0.49952763319015503
+retrogress : 0.4973388910293579
+commodify : 0.4960402250289917
+
+Words similar to precocious:
+==============================
+precociously : 0.6771364808082581
+prodigy : 0.6187261939048767
+Precocious : 0.6169977784156799
+Capricious_Diego_Maradona : 0.6163221001625061
+prodigiously_talented : 0.6105054616928101
+gangly : 0.6033405065536499
+gawky : 0.5967899560928345
+precociously_talented : 0.5876299142837524
+precociousness : 0.584128201007843
+coltish : 0.582841157913208
+
+Words similar to delegate:
+==============================
+delegates : 0.7004156112670898
+convention_delegates : 0.581906795501709
+superdelegate : 0.5756189227104187
+Nasser_al_Janabi : 0.5491111874580383
+unpledged_delegates : 0.5243252515792847
+pledged_delegates : 0.5202789306640625
+Delegate : 0.5189756751060486
+Ahmad_al_Hayali : 0.49357515573501587
+unpledged_super : 0.4919523000717163
+delgates : 0.4900740385055542
+
+Words similar to genius:
+==============================
+geniuses : 0.6862612366676331
+genuis : 0.6704376935958862
+brilliance : 0.6693669557571411
+savant : 0.6491810083389282
+genious : 0.6256625056266785
+wizardry : 0.5738848447799683
+brilliant : 0.5676076412200928
+genuises : 0.5601190328598022
+visionary : 0.5360323786735535
+idiot_savant : 0.5349897742271423
+
+Words similar to fortuitous:
+==============================
+serendipitous : 0.7206504344940186
+fortuitously : 0.5770222544670105
+happenstance : 0.5715517401695251
+providential : 0.5714552998542786
+serendipity : 0.5703522562980652
+coincidental : 0.5699203014373779
+Fortuitous : 0.546191930770874
+unfortunate : 0.5335626006126404
+fortuitous_timing : 0.5189430117607117
+bizarre : 0.5150347352027893
+
+Words similar to garner:
+==============================
+garnering : 0.7505812048912048
+garnered : 0.7020289301872253
+garners : 0.6641969084739685
+Garnering : 0.6089940071105957
+generate : 0.5899110436439514
+attract : 0.5718861222267151
+elicit : 0.5687882900238037
+earn : 0.5556344389915466
+muster : 0.5479867458343506
+amass : 0.518174409866333
+
+Words similar to conundrum:
+==============================
+dilemma : 0.86905437707901
+quandary : 0.8299286365509033
+quandry : 0.7219725847244263
+paradox : 0.6917737126350403
+dilemmas : 0.6882652640342712
+conundrums : 0.6811191439628601
+riddle : 0.6521846055984497
+quandaries : 0.6463207602500916
+dilemna : 0.6394909620285034
+problem : 0.6216374635696411
+
+Words similar to ascetic:
+==============================
+asceticism : 0.6305558085441589
+monkish : 0.6008092164993286
+ascetics : 0.5830283761024475
+abstemiousness : 0.5572881698608398
+austere : 0.5443738698959351
+monastic : 0.5391232967376709
+tapasya : 0.5170500874519348
+disciple : 0.515465259552002
+esthete : 0.5116396546363831
+pious : 0.5066768527030945
+
+Words similar to charlatan:
+==============================
+mountebank : 0.6188162565231323
+charlatans : 0.6062853932380676
+huckster : 0.5775133967399597
+gullible : 0.5526221990585327
+dissembler : 0.5487249493598938
+crackpot : 0.5417627096176147
+inveterate_liar : 0.5372316241264343
+congenital_liar : 0.5326517224311829
+liar : 0.5323631763458252
+prevaricator : 0.5303553342819214
+
+Words similar to teleological:
+==============================
+teleology : 0.6997949481010437
+positivistic : 0.6865782737731934
+subjectivist : 0.6635857820510864
+monism : 0.6627222895622253
+methodological_naturalism : 0.6598827242851257
+telos : 0.6547850370407104
+rationalistic : 0.6456173062324524
+scientism : 0.6400951743125916
+dualist : 0.6358560919761658
+determinist : 0.635316014289856
+
+Words similar to bombast:
+==============================
+bombastic : 0.6922893524169922
+bluster : 0.6586951017379761
+grandiloquence : 0.6492437124252319
+histrionics : 0.6358997821807861
+pomposity : 0.6347984075546265
+bravado : 0.6335262060165405
+braggadocio : 0.6154297590255737
+hyperbole : 0.6081079244613647
+subtlety : 0.6051374077796936
+theatrics : 0.6046333909034729
+
+Words similar to luscious:
+==============================
+gorgeous : 0.7150972485542297
+delectable : 0.6944749355316162
+buttery : 0.6771371364593506
+ravishing : 0.6722079515457153
+delicious : 0.6670687794685364
+lush : 0.6619077920913696
+velvety : 0.6596763134002686
+succulent : 0.657698392868042
+creamy : 0.6552858948707581
+lusciousness : 0.6503435969352722
+
+Words similar to countenance:
+==============================
+countenances : 0.5527001023292542
+acquiesce : 0.5139679312705994
+contemplate : 0.5113568902015686
+frown : 0.48385533690452576
+countenanced : 0.47756290435791016
+mien : 0.4738464057445526
+suffer_fools : 0.4660533666610718
+temporize : 0.4579087495803833
+visaged : 0.45571473240852356
+visage : 0.4522262215614319
+
+Words similar to recondite:
+==============================
+abstruse : 0.663792610168457
+esoteric : 0.6012259125709534
+recherché : 0.5682207942008972
+compendious : 0.5656479597091675
+aperçus : 0.5552732944488525
+circumlocutions : 0.542471706867218
+prolix : 0.5420831441879272
+idiosyncratic : 0.5379253625869751
+post_structuralist : 0.5360604524612427
+profundities : 0.5347428321838379
+
+Words similar to paladin:
+==============================
+mage : 0.6881446838378906
+mages : 0.6495234370231628
+paladins : 0.6078721880912781
+Mage : 0.5815992951393127
+warrior_mage : 0.5733823776245117
+Blood_Elf : 0.5714178085327148
+mana_regen : 0.5688942074775696
+spellcasters : 0.5687616467475891
+tauren : 0.5665981769561768
+debuff : 0.5654910206794739
+
+Words similar to hoodwink:
+==============================
+dupe : 0.721193790435791
+mislead : 0.6771314144134521
+hoodwinking : 0.6733530759811401
+befool : 0.6713626980781555
+bamboozle : 0.6584519743919373
+misguide : 0.6227864623069763
+fool : 0.6149643659591675
+delude : 0.6100439429283142
+deceive : 0.5880386829376221
+hoodwinked : 0.5869012475013733
+
+Words similar to implacable:
+==============================
+implacability : 0.599513053894043
+unyielding : 0.5780835747718811
+unbending : 0.5755558609962463
+obstinate : 0.552186131477356
+unswerving : 0.5515364408493042
+pitiless : 0.5501143336296082
+steely : 0.5495954155921936
+indomitable : 0.545430064201355
+implacably : 0.5370442867279053
+unrelenting : 0.5349857211112976
+
+Words similar to misanthrope:
+==============================
+misanthropic : 0.6116209030151367
+prig : 0.6089614033699036
+solipsist : 0.6035425662994385
+sociopath : 0.6018205881118774
+fusspot : 0.5998824834823608
+curmudgeon : 0.5988790988922119
+narcissist : 0.5947180390357971
+schlemiel : 0.5866539478302002
+old_codger : 0.5850251317024231
+schnook : 0.5796608924865723
+
+Words similar to vulpine:
+==============================
+saturnine : 0.6069952249526978
+puppyish : 0.6018913984298706
+deliciously_evil : 0.5876191258430481
+beaky : 0.5754911303520203
+Mephistophelian : 0.5722983479499817
+kittenish : 0.5718668699264526
+leonine : 0.5682206153869629
+epicene : 0.5677206516265869
+sylph : 0.5662702918052673
+Vindice : 0.5656772255897522
+
+Words similar to exacerbate:
+==============================
+aggravate : 0.8032044172286987
+worsen : 0.7574579119682312
+exacerbates : 0.7360548973083496
+exacerbating : 0.7217624187469482
+exacerbated : 0.6773000359535217
+complicate : 0.6352342963218689
+negatively_affect : 0.6103007197380066
+depress : 0.6070153117179871
+aggravates : 0.603554368019104
+inflame : 0.6030112504959106
+
+Words similar to endemic:
+==============================
+prevalent : 0.6522376537322998
+Endemic : 0.648362398147583
+pervasive : 0.6046860218048096
+rampant : 0.6001351475715637
+rife : 0.5517882704734802
+eradicated : 0.5495929718017578
+eradicable : 0.5467217564582825
+plagues : 0.5434593558311462
+outright_thuggery : 0.5335338115692139
+deeply_entrenched : 0.5302733182907104
+
+Words similar to balkanize:
+==============================
+Balkanize : 0.6217671632766724
+balkanization : 0.6098505258560181
+ethnically_cleanse : 0.5703103542327881
+Balkanization : 0.5577472448348999
+ghettoise : 0.5525016784667969
+genocidally : 0.5504428744316101
+Balkanized : 0.5496927499771118
+Islamizing : 0.5485674142837524
+irredentist : 0.5484376549720764
+balkanise : 0.5483016967773438
+
+Words similar to marginalia:
+==============================
+scribblings : 0.5900790095329285
+descriptive_passages : 0.5591689348220825
+jottings : 0.5588688254356384
+biblical_allusions : 0.552020251750946
+epigraphs : 0.5514666438102722
+copiously_illustrated : 0.5502316951751709
+scholarly_tomes : 0.5491863489151001
+scholarly_essays : 0.5465288758277893
+dog_eared_pages : 0.5419009923934937
+typescript : 0.5403491258621216
+
+Words similar to knackered:
+==============================
+knackering : 0.6639623045921326
+absolutely_knackered : 0.6394383311271667
+buggered : 0.6060125827789307
+mullered : 0.5965747833251953
+shitting_myself : 0.590580403804779
+skint : 0.5715271830558777
+Bloody_hell : 0.5694719552993774
+doolally : 0.564052164554596
+blimey : 0.5535575151443481
+knacked : 0.5500750541687012
+
+Words similar to wangle:
+==============================
+finagle : 0.6576457023620605
+blag : 0.526338517665863
+wheedle : 0.5240364670753479
+finagles : 0.5207630395889282
+wangled : 0.5147800445556641
+cadge : 0.5094310641288757
+inveigle : 0.49483391642570496
+finagled : 0.47499290108680725
+filch : 0.4547608196735382
+wangling : 0.4493761658668518
+
+Words similar to doctrinaire:
+==============================
+dogmatic : 0.731427013874054
+statist : 0.5877912044525146
+absolutist : 0.5761186480522156
+ideologically_rigid : 0.5734160542488098
+ideological : 0.5650259256362915
+liberalist : 0.5623895525932312
+reactionary : 0.561468243598938
+dirigiste : 0.5581406354904175
+liberal : 0.5555684566497803
+progressivist : 0.5523043870925903
+
+Words similar to rubric:
+==============================
+guise : 0.4728159010410309
+headings : 0.47268569469451904
+definitions : 0.4668426811695099
+Collectivism : 0.4660038650035858
+auspice : 0.4642125964164734
+rubrics : 0.45306316018104553
+subtopic : 0.4363941252231598
+doctrine : 0.4324190616607666
+aegis : 0.4306715428829193
+Cloward_Piven_strategy : 0.42331019043922424
+
+Words similar to adapt:
+==============================
+adapting : 0.7729563117027283
+adjust : 0.69330894947052
+adapted : 0.6579240560531616
+adapts : 0.6448734402656555
+evolve : 0.6016069650650024
+Adapting : 0.589813232421875
+acclimate : 0.5788455009460449
+adaptable : 0.5761308073997498
+readapt : 0.5636023283004761
+cope : 0.5574179291725159
+
+Words similar to savant:
+==============================
+genius : 0.6491810083389282
+guru : 0.5592291951179504
+idiot_savant : 0.5491132140159607
+wiz : 0.5459786057472229
+savants : 0.5367496609687805
+geniuses : 0.5215954780578613
+autistic_savant : 0.5182077288627625
+geek : 0.51761794090271
+wunderkind : 0.5172116160392761
+whiz : 0.509651243686676
+
+Words similar to sandbag:
+==============================
+sandbags : 0.7327285408973694
+sandbagging : 0.6788557171821594
+filling_sandbags : 0.5758123397827148
+Sandbag_Central : 0.5565884113311768
+sandbagged : 0.5429903864860535
+sandbag_filling : 0.5411726832389832
+sandbag_dikes : 0.5323408246040344
+Sandbagging : 0.514864444732666
+sandbag_barriers : 0.5124465823173523
+piling_sandbags : 0.5019870400428772
+
+Words similar to gloaming:
+==============================
+lengthening_shadows : 0.5620046257972717
+leaden_skies : 0.5135567784309387
+autumnal_sunshine : 0.5063082575798035
+shadows_lengthened : 0.506109356880188
+dappled : 0.503277063369751
+phosphorescent_glow : 0.5007205009460449
+shadows_lengthen : 0.5006058812141418
+twilight : 0.4989531338214874
+slanting_rays : 0.49727824330329895
+dreich : 0.49350476264953613
+
+Words similar to perceptible:
+==============================
+discernible : 0.7385169863700867
+discernable : 0.7296379804611206
+noticeable : 0.6922286152839661
+perceivable : 0.6346020102500916
+appreciable : 0.6296750903129578
+noticable : 0.5645415186882019
+imperceptible : 0.5198315978050232
+visible : 0.5183157920837402
+almost_imperceptible : 0.5158171653747559
+barely_perceptible : 0.5110183954238892
+
+Words similar to celerity:
+==============================
+blatancy : 0.48205021023750305
+triviality : 0.4646162986755371
+inconsequentiality : 0.4618522524833679
+unbelievability : 0.4568798840045929
+élan : 0.4557873606681824
+unusualness : 0.4551922082901001
+ludicrousness : 0.4465497136116028
+cogency : 0.44526931643486023
+hokeyness : 0.4427351653575897
+www.merriam_webster.com : 0.4422977864742279
+
+Words similar to abdicate:
+==============================
+abdicated : 0.704643726348877
+abdicates : 0.6470901370048523
+abdicating : 0.6355147361755371
+abdication : 0.61198490858078
+relinquish : 0.5649631023406982
+cede : 0.5581076741218567
+shirk : 0.5334166884422302
+usurp : 0.5211264491081238
+abandon : 0.5147463083267212
+accede : 0.5130192637443542
+
+Words similar to solace:
+==============================
+comfort : 0.6017587780952454
+succor : 0.5753254294395447
+solice : 0.5308743715286255
+refuge : 0.5160839557647705
+respite : 0.5057926774024963
+consoling : 0.5021103620529175
+consolation : 0.5018044114112854
+silver_lining : 0.49185827374458313
+comforted : 0.49140653014183044
+reassurance : 0.4841640889644623
+
+Words similar to lachrymose:
+==============================
+lugubrious : 0.6154743432998657
+bathetic : 0.6115822792053223
+mawkish : 0.5903928279876709
+dolorous : 0.5807283520698547
+toneless : 0.5692726969718933
+arioso : 0.5598684549331665
+doleful : 0.5593209266662598
+plangent : 0.5574402213096619
+shrill : 0.553066611289978
+melodramatic : 0.5513022541999817
+
+Words similar to vandalize:
+==============================
+vandalizing : 0.7178072929382324
+deface : 0.689504861831665
+vandalized : 0.6750045418739319
+defacing : 0.592450737953186
+vandals : 0.5923865437507629
+vandalism : 0.5822598338127136
+burglarize : 0.5307327508926392
+harass : 0.5258455872535706
+ransack : 0.5230292677879333
+defaced : 0.5138324499130249
+
+Words similar to expeditious:
+==============================
+expeditiously : 0.6868023872375488
+expedited : 0.6808062791824341
+expedite : 0.6686875820159912
+expeditious_manner : 0.6599150896072388
+expediting : 0.5828155279159546
+speedy : 0.5777934789657593
+expeditious_disposal : 0.5539513230323792
+equitable : 0.5374699831008911
+transparent_manner : 0.5251291394233704
+expedient_manner : 0.5156893134117126
+
+Words similar to bravado:
+==============================
+cockiness : 0.706037700176239
+braggadocio : 0.6937064528465271
+bluster : 0.6865085959434509
+swagger : 0.6697739362716675
+brashness : 0.6544855237007141
+machismo : 0.6528118252754211
+bombast : 0.6335262060165405
+self_assuredness : 0.6251612305641174
+nonchalance : 0.6043452620506287
+boastfulness : 0.6008177995681763
+
+Words similar to imbue:
+==============================
+imbued : 0.652124285697937
+infuse : 0.6026512980461121
+evoke : 0.6020787358283997
+exude : 0.5803850889205933
+instill : 0.5793399810791016
+convey : 0.5772456526756287
+imbuing : 0.5743789672851562
+embody : 0.5691568851470947
+instil : 0.5575241446495056
+impart : 0.5529131889343262
+
+Words similar to compadre:
+==============================
+pal : 0.5890790820121765
+compadres : 0.5590305924415588
+amigo : 0.5389500856399536
+buddy : 0.530056357383728
+El_Jefe : 0.516139805316925
+pals : 0.5116887092590332
+jefe : 0.49441254138946533
+hombre : 0.47536712884902954
+bosom_buddy : 0.475335955619812
+mi_amigo : 0.47391870617866516
+
+Words similar to fiduciary:
+==============================
+fiduciaries : 0.720167875289917
+Fiduciary : 0.6892051100730896
+ERISA_fiduciary : 0.6412931084632874
+ERISA : 0.6027302145957947
+fiduciary_responsibilities : 0.6019451022148132
+fiduciary_responsibility : 0.5977362990379333
+Fiduciaries : 0.5564897060394287
+fiduciary_obligations : 0.5564087629318237
+subadvisory : 0.5518952012062073
+fi### : 0.5510188937187195
+
+Words similar to undulate:
+==============================
+undulating : 0.5942554473876953
+Arching : 0.5796799659729004
+Undulating : 0.5736203193664551
+graceful_arcs : 0.5655997395515442
+sinuous : 0.5654171705245972
+wavelike : 0.5638489127159119
+undulated : 0.5634815692901611
+uncurling : 0.5612396001815796
+undulates : 0.5577807426452637
+eddying : 0.5489820837974548
+
+Words similar to morass:
+==============================
+quagmire : 0.7550023794174194
+mire : 0.6745067238807678
+quagmires : 0.5906853079795837
+abyss : 0.5758543610572815
+quicksand : 0.5743674039840698
+murk : 0.5562529563903809
+muddle : 0.5398538112640381
+thicket : 0.5334095358848572
+miasma : 0.5315096974372864
+bureaucratic_quagmire : 0.5272887945175171
+
+Words similar to putative:
+==============================
+ostensible : 0.5582243800163269
+presumed : 0.5312572717666626
+putatively : 0.4775920808315277
+purported : 0.45786798000335693
+inasmuch : 0.4550599753856659
+presumably : 0.45270317792892456
+feckless : 0.4484241306781769
+truckling : 0.44534817337989807
+plausible : 0.4435857832431793
+erstwhile : 0.4434659481048584
+
+Words similar to oblivion:
+==============================
+abyss : 0.6612746119499207
+irrelevance : 0.6549201607704163
+obscurity : 0.6218427419662476
+irrelevancy : 0.6117023229598999
+perdition : 0.5332189202308655
+ignominy : 0.5230327248573303
+desuetude : 0.5214170813560486
+nothingness : 0.5209105610847473
+bottomless_abyss : 0.5022364854812622
+mire : 0.4972103238105774
+
+Words similar to ineluctable:
+==============================
+inexorable : 0.6681705713272095
+inexorability : 0.5893370509147644
+inescapable : 0.5774663090705872
+entropic : 0.5651394724845886
+inalterable : 0.5600016713142395
+inexorable_logic : 0.5519664883613586
+inescapability : 0.5504757761955261
+abjection : 0.5392930507659912
+dialectic : 0.5390828847885132
+evanescence : 0.5389649868011475
+
+Words similar to dreidel:
+==============================
+dreidels : 0.7409515976905823
+dreidel_spinning : 0.6320900321006775
+Dreidel : 0.6110109090805054
+Dreidels : 0.5993735194206238
+gelt : 0.5656824707984924
+chocolate_gelt : 0.5656790733337402
+Hanukkah : 0.5442540645599365
+Hanukka : 0.5422096252441406
+Chanukah : 0.5330096483230591
+spinning_dreidel : 0.532440185546875
+
+Words similar to gainsay:
+==============================
+gainsaid : 0.5342560410499573
+Wherein_lies : 0.5253764390945435
+refute : 0.5223148465156555
+substantiate : 0.5154784321784973
+flatly_contradict : 0.5012990236282349
+disprove : 0.4980603754520416
+overemphasise : 0.49533477425575256
+ascribe : 0.4949687123298645
+refutable : 0.4933989942073822
+woefully_misplaced : 0.49251312017440796
+
+Words similar to accoutrement:
+==============================
+accoutrements : 0.6549252867698669
+accouterment : 0.6039069890975952
+adornment : 0.5617277026176453
+accouterments : 0.5602200627326965
+adornments : 0.5113482475280762
+doo_dads : 0.5087619423866272
+frippery : 0.5032719969749451
+ironic_hipster : 0.49324142932891846
+costumery : 0.4869554936885834
+funky_hairstyles : 0.48693761229515076
+
+Words similar to deleterious:
+==============================
+detrimental : 0.6391847133636475
+harmful : 0.6247298121452332
+injurious : 0.6135404109954834
+deleterious_effects : 0.5630182027816772
+undesirable : 0.5436424612998962
+deleterious_consequences : 0.5424701571464539
+pernicious : 0.5154967904090881
+adverse_effects : 0.5089684128761292
+detrimentally_affects : 0.5037820339202881
+aquatic_biota : 0.5014697909355164
+
+Words similar to speculate:
+==============================
+speculating : 0.6920359134674072
+speculated : 0.6487800478935242
+unclear : 0.5743623971939087
+say : 0.5627905130386353
+predict : 0.560711681842804
+Speculating : 0.5583226084709167
+theorize : 0.5532234311103821
+opine : 0.5474263429641724
+specify : 0.5435055494308472
+divulge : 0.5389907360076904
+
+Words similar to tortuous:
+==============================
+torturous : 0.7338677644729614
+arduous : 0.6643199920654297
+convoluted : 0.5824652910232544
+laborious : 0.5803924798965454
+grueling : 0.5622748732566833
+tedious : 0.5585444569587708
+protracted : 0.5543125867843628
+seemingly_interminable : 0.5496692061424255
+labyrinthine : 0.546833336353302
+excruciating : 0.5444685816764832
+
+Words similar to nativity:
+==============================
+nativity_scene : 0.7851148843765259
+Nativity : 0.7480118274688721
+Nativity_scene : 0.7118027806282043
+Nativity_scenes : 0.6694903373718262
+nativity_scenes : 0.635892391204834
+nativities : 0.6299975514411926
+Living_Nativity : 0.6075397729873657
+nativity_pageant : 0.5961395502090454
+Nativities : 0.5895640850067139
+Nativity_Scene : 0.580971896648407
+
+Words similar to halcyon:
+==============================
+halcyon_days : 0.6893349885940552
+heady : 0.5955653786659241
+bygone : 0.5763356685638428
+yore : 0.5710265040397644
+heydays : 0.5487849116325378
+halycon_days : 0.5425020456314087
+heyday : 0.5407598614692688
+Fifties : 0.5331190824508667
+harking_back : 0.5313198566436768
+nostalgically : 0.5284417271614075
+
+Words similar to cajole:
+==============================
+browbeat : 0.6604900360107422
+coerce : 0.6124304533004761
+goad : 0.5958927273750305
+coax : 0.5881370902061462
+cajoling : 0.5686265230178833
+prod : 0.5682719349861145
+persuade : 0.5387981534004211
+coax_cajole : 0.5352818369865417
+cajoled : 0.5170162320137024
+cajoles : 0.5148198008537292
+
+Words similar to lodestar:
+==============================
+polestar : 0.510790228843689
+lodestar_method : 0.4771961271762848
+theologian_Reinhold_Niebuhr : 0.4576945900917053
+propounder : 0.4566401243209839
+empiricism : 0.42562681436538696
+Burkean : 0.42404696345329285
+immanence : 0.4177824854850769
+perspicuity : 0.4171176254749298
+strict_constructionism : 0.41696906089782715
+indefiniteness : 0.40594682097435
+
+Words similar to espouse:
+==============================
+espousing : 0.6882076859474182
+espoused : 0.641231894493103
+espouses : 0.6249290704727173
+profess : 0.5702292323112488
+preach : 0.5614687204360962
+propound : 0.5469106435775757
+moral_relativist : 0.526933491230011
+particularist : 0.5215572118759155
+ideology : 0.5107139348983765
+despise : 0.5087536573410034
+
+Words similar to boondoggle:
+==============================
+boondoggles : 0.7210953831672668
+Boondoggle : 0.566087543964386
+monstrosity : 0.5039319396018982
+wasteful_pork : 0.47875073552131653
+megaproject : 0.47558504343032837
+NIMBYs : 0.47488197684288025
+fiscally_irresponsible : 0.4707089960575104
+fiasco : 0.4689703583717346
+ripoff : 0.4686014652252197
+porkulus : 0.46619224548339844
+
+Words similar to retrospective:
+==============================
+Retrospective : 0.6852881908416748
+retrospectives : 0.558244526386261
+restrospective : 0.5537410378456116
+monographic : 0.5412442088127136
+hourlong_Globes : 0.510670006275177
+retrospectively : 0.5100077986717224
+MoMA_retrospective : 0.5017862915992737
+monographic_exhibition : 0.49948880076408386
+catalog_raisonne : 0.4829096794128418
+Visual_Acoustics : 0.4729900360107422
+
+Words similar to sallow:
+==============================
+lank : 0.5753036737442017
+cadaverous : 0.5715888142585754
+sallow_skin : 0.5650056004524231
+pallid : 0.560603678226471
+pallor : 0.55155348777771
+sunken_cheeks : 0.5386959910392761
+hollow_eyed : 0.534501850605011
+rheumy : 0.5338762402534485
+haggard : 0.533573567867279
+hollow_cheeks : 0.5297324061393738
+
+Words similar to rapscallion:
+==============================
+scallywag : 0.6111835241317749
+Haden_Church : 0.5908536911010742
+vulgarian : 0.5855753421783447
+slobby : 0.5855181813240051
+dipsomaniac : 0.5854129791259766
+rascally : 0.5831032395362854
+slobbish : 0.5822629332542419
+lunk : 0.5815379023551941
+lecher : 0.5773574709892273
+layabout : 0.5748156309127808
+
+Words similar to abandon:
+==============================
+abandoning : 0.7020503878593445
+shelve : 0.6475061178207397
+forsake : 0.6132363677024841
+jettison : 0.5699150562286377
+renounce : 0.5696770548820496
+rethink : 0.5692434310913086
+spurn : 0.5634927749633789
+forgo : 0.560987651348114
+abandons : 0.5590875744819641
+forego : 0.5577858090400696
+
+Words similar to gauche:
+==============================
+déclassé : 0.6335054039955139
+pretentious : 0.6053273677825928
+infra_dig : 0.5914859175682068
+passé : 0.5742856860160828
+uncool : 0.5690792202949524
+recherché : 0.5651863217353821
+twee : 0.560636579990387
+exhibitionistic : 0.5599531531333923
+snobbishly : 0.5562476515769958
+snooty : 0.5489248037338257
+
+Words similar to serendipity:
+==============================
+serendipitous : 0.6830241680145264
+happenstance : 0.648219645023346
+kismet : 0.6139841079711914
+pure_serendipity : 0.5755918622016907
+fortuitous : 0.57035231590271
+dumb_luck : 0.5484975576400757
+synchronistic : 0.533636748790741
+eureka_moments : 0.5146679282188416
+providential : 0.4983569383621216
+coincidences : 0.4949021637439728
+
+Words similar to encapsulate:
+==============================
+encapsulates : 0.6461660861968994
+encapsulating : 0.6380699276924133
+encapsulated : 0.6372430324554443
+embody : 0.5623777508735657
+distill : 0.542879045009613
+convey : 0.538644015789032
+crystallize : 0.5367124080657959
+distil : 0.5358361601829529
+condense : 0.5355443954467773
+define : 0.5331166386604309
+
+Words similar to bilious:
+==============================
+foam_flecked : 0.5828657150268555
+vituperative : 0.5814712643623352
+splenetic : 0.5700335502624512
+scabrous : 0.5674471259117126
+putrescence : 0.5598522424697876
+caustic : 0.5544155836105347
+vile : 0.5520184636116028
+puerile : 0.5498653650283813
+jejune : 0.540717363357544
+vitriolic : 0.538946270942688
+
+Words similar to lapidary:
+==============================
+faceting : 0.5945630073547363
+lapidary_arts : 0.5678461790084839
+silversmithing : 0.551238477230072
+minerals_fossils : 0.5236223936080933
+bead_stringing : 0.5204874277114868
+silver_smithing : 0.5180367231369019
+Lapidary : 0.5161349773406982
+woodturning : 0.5142307877540588
+lampwork : 0.5078201293945312
+flintknapping : 0.5076066851615906
+
+Words similar to doughty:
+==============================
+redoubtable : 0.6513598561286926
+stout_hearted : 0.6298922896385193
+gallant : 0.563605010509491
+tenacious : 0.5561167597770691
+wily : 0.5549517273902893
+obdurate : 0.5538880825042725
+indefatigable : 0.553532600402832
+lion_hearted : 0.5525457262992859
+indomitable : 0.5507670044898987
+plucky : 0.5489911437034607
+
+Words similar to intoxicate:
+==============================
+intoxicates : 0.5646657943725586
+inebriating : 0.5395215153694153
+bewitch : 0.5325489640235901
+intoxicating : 0.5269761681556702
+beguile : 0.5161013603210449
+stupefy : 0.5134449005126953
+imbibe : 0.4894740879535675
+enrapture : 0.48156076669692993
+inhale : 0.48113617300987244
+quaff : 0.4811021387577057
+
+Words similar to crucible:
+==============================
+crucibles : 0.5680616497993469
+pressure_cooker : 0.5101797580718994
+caldron : 0.49786141514778137
+cauldron : 0.4867381751537323
+melting_pot : 0.4748120605945587
+hothouse : 0.4732159376144409
+defining_moment : 0.453337699174881
+touchstone : 0.450038343667984
+microcosm : 0.42115873098373413
+intellectual_ferment : 0.4138585925102234
+
+Words similar to magnanimous:
+==============================
+gracious : 0.6956098675727844
+benevolent : 0.5717725157737732
+magnanimity : 0.5694864988327026
+ungracious : 0.551929235458374
+magnanimous_gesture : 0.5476660132408142
+generous : 0.5352795124053955
+tactful : 0.5281133055686951
+humble : 0.5239899158477783
+noble_gesture : 0.5165125727653503
+apologetic : 0.5041086673736572
+
+Words similar to augur:
+==============================
+augurs : 0.7208551168441772
+bode_well : 0.7026296257972717
+bode : 0.6884874105453491
+augured : 0.6544443368911743
+portend : 0.647613525390625
+augurs_well : 0.5798699259757996
+spell_doom : 0.5779020190238953
+bode_ill : 0.5599504709243774
+presage : 0.5507815480232239
+bodes : 0.5502177476882935
+
+Words similar to hummock:
+==============================
+rock_ledges : 0.6545855402946472
+hummocks : 0.6456027030944824
+waterfall_cascades : 0.6351199150085449
+Angelpond : 0.6321541666984558
+hummocky : 0.6317330598831177
+tussocky : 0.6293705105781555
+bullrushes : 0.6292687654495239
+rocky_crags : 0.620140016078949
+plum_thickets : 0.617651104927063
+grassy_meadow : 0.6160757541656494
+
+Words similar to nugatory:
+==============================
+otiose : 0.5764832496643066
+superfluous : 0.5496439337730408
+surplusage : 0.5449731349945068
+unuseful : 0.5302056074142456
+justiciable : 0.5252884030342102
+infructuous : 0.5170570611953735
+discreditable : 0.5110397338867188
+functus_officio : 0.5102636218070984
+purposeless : 0.5095080733299255
+insubstantial : 0.5056370496749878
+
+Words similar to farce:
+==============================
+farcical : 0.7248798608779907
+farces : 0.6290484666824341
+charade : 0.6240403652191162
+tragi_comedy : 0.6043448448181152
+tragicomedy : 0.5995512008666992
+absurdity : 0.5516020655632019
+travesty : 0.5474308729171753
+melodrama : 0.5425285696983337
+lunacy : 0.5369207262992859
+buffoonery : 0.5362046360969543
+
+Words similar to extirpate:
+==============================
+eradicate : 0.5874319076538086
+exterminate : 0.5762271285057068
+subjugate : 0.5667496919631958
+Islamise : 0.5597226023674011
+vanquish : 0.5433171987533569
+totalitarian_theocratic : 0.5416952967643738
+erradicate : 0.5310468077659607
+recolonise : 0.5197170376777649
+delegitimise : 0.5152015089988708
+efface : 0.5083300471305847
+
+Words similar to temerity:
+==============================
+audacity : 0.7372937798500061
+effrontery : 0.6802380681037903
+gall : 0.6719830632209778
+dared : 0.6719390153884888
+unmitigated_gall : 0.594858705997467
+deigned : 0.5876591801643372
+dare : 0.5666419863700867
+gumption : 0.5641508102416992
+chutzpah : 0.545214831829071
+dares : 0.5348924994468689
+
+Words similar to leonine:
+==============================
+beaky : 0.5785017013549805
+vulpine : 0.5682206153869629
+wolfish : 0.5665673017501831
+wiry_haired : 0.5662118792533875
+beetle_browed : 0.5645459890365601
+baritonal : 0.5628103613853455
+imperturbable : 0.556932806968689
+sloe_eyed : 0.5562597513198853
+sylph : 0.5545586347579956
+danseur_noble : 0.5527942776679993
+
+Words similar to vamoose:
+==============================
+skedaddle : 0.573184609413147
+hightail : 0.4724844694137573
+scarper : 0.46486321091651917
+shoos : 0.4612276554107666
+wises : 0.4518299102783203
+wascally : 0.45012298226356506
+pleading_cajoling : 0.4453754127025604
+lazy_asses : 0.44324547052383423
+whine_moan : 0.43978333473205566
+Tsk_tsk : 0.43859362602233887
+
+Words similar to cornucopia:
+==============================
+smorgasbord : 0.7116541862487793
+veritable_cornucopia : 0.6573637127876282
+plethora : 0.648885190486908
+veritable_smorgasbord : 0.6091368794441223
+vast_array : 0.5949963331222534
+panoply : 0.5948653221130371
+profusion : 0.5742968916893005
+array : 0.5702913999557495
+smorgasboard : 0.5615096092224121
+mélange : 0.5601644515991211
+
+Words similar to jejune:
+==============================
+vacuous : 0.6063228249549866
+puerile : 0.6046819090843201
+maundering : 0.604243814945221
+solipsistic : 0.579846203327179
+mealymouthed : 0.573662281036377
+willfully_obtuse : 0.5674657225608826
+obtuse : 0.565735399723053
+Wildean : 0.5653662085533142
+simpleminded : 0.5648298859596252
+infantile : 0.5637426972389221
+
+Words similar to sustain:
+==============================
+maintain : 0.6152461767196655
+survive : 0.6004197597503662
+sustained : 0.5600455403327942
+sustaining : 0.5599552392959595
+sustains : 0.5522089004516602
+attain : 0.5130173563957214
+withstand : 0.5038255453109741
+generate : 0.4999939799308777
+propel : 0.49878332018852234
+recover : 0.49446940422058105
+
+Words similar to onomatopoeia:
+==============================
+onomatopoeic : 0.713596761226654
+adjectives_adverbs : 0.6506416201591492
+onomatopoetic : 0.6460571885108948
+nonsense_syllables : 0.6316249966621399
+denotative : 0.6158034801483154
+diphthongs : 0.6090200543403625
+schwa : 0.5987823009490967
+katakana : 0.5972954630851746
+multisyllabic : 0.5959173440933228
+homophones : 0.5907462239265442
+
+Words similar to wheedle:
+==============================
+finagle : 0.573350191116333
+wheedling : 0.5644376873970032
+cadge : 0.5443314909934998
+inveigle : 0.5271841287612915
+wangle : 0.5240364074707031
+cajole : 0.5146438479423523
+filch : 0.4959260821342468
+blag : 0.4939005672931671
+bilk : 0.48899781703948975
+seduce : 0.48636049032211304
+
+Words similar to motley:
+==============================
+rag_tag : 0.6897104978561401
+motley_crew : 0.685802161693573
+ragtag : 0.684861421585083
+motley_collection : 0.5880463123321533
+raggle_taggle : 0.5554911494255066
+misfits : 0.5307609438896179
+motley_bunch : 0.5281112194061279
+rag_tag_bunch : 0.5221683382987976
+ragtag_bunch : 0.5206597447395325
+ragtag_band : 0.49741968512535095
+
+Words similar to quiddity:
+==============================
+unknowability : 0.6137313842773438
+incommunicable : 0.6030643582344055
+ungraspable : 0.5980668067932129
+animality : 0.5970327258110046
+Beckettian : 0.591718316078186
+outsiderness : 0.5915480256080627
+Conradian : 0.586266040802002
+deracination : 0.5857089161872864
+Nabokovian : 0.5845472812652588
+embattlement : 0.5840673446655273
+
+Words similar to critique:
+==============================
+critiques : 0.8195502161979675
+critiquing : 0.6091347336769104
+criticisms : 0.5958261489868164
+rebuttal : 0.5897100567817688
+critiqued : 0.5748912692070007
+refutation : 0.5525057911872864
+jeremiad : 0.5506723523139954
+diatribe : 0.5476074814796448
+apologia : 0.5465803146362305
+denunciation : 0.5436846613883972
+
+Words similar to emblazon:
+==============================
+adorn : 0.558963418006897
+emblazoning : 0.5403289198875427
+emblazoned : 0.5156099200248718
+adorning : 0.5034351348876953
+inscribe : 0.47332972288131714
+Emblazoned : 0.46676841378211975
+adorned : 0.4579412639141083
+bedeck : 0.4520443081855774
+emblazed : 0.44869688153266907
+imprinted : 0.44697847962379456
+
+Words similar to languid:
+==============================
+languorous : 0.7282230257987976
+languor : 0.6302841305732727
+unhurried : 0.6151621341705322
+dreamy : 0.6062912344932556
+limpid : 0.5949777364730835
+sultry : 0.5785878300666809
+leisurely : 0.5755678415298462
+lilting : 0.5752438902854919
+languidly : 0.5656540989875793
+pensive : 0.5654553771018982
+
+Words similar to onus:
+==============================
+onus_squarely : 0.59185791015625
+burden : 0.5816067457199097
+blame_squarely : 0.5699595808982849
+Onus : 0.5424124002456665
+responsibility : 0.5351666808128357
+reponsibility : 0.5186390280723572
+emphasis : 0.4894693195819855
+responsbility : 0.4808662533760071
+imperative : 0.48045581579208374
+blame : 0.47946497797966003
+
+Words similar to atone:
+==============================
+atoning : 0.6779133677482605
+amends : 0.634207546710968
+atones : 0.6164525151252747
+atoned : 0.6142182350158691
+banish_memories : 0.5892341136932373
+avenge : 0.5831109285354614
+atonement : 0.5823696851730347
+exorcise : 0.5432361960411072
+forgive : 0.5127944350242615
+expiate : 0.5096417665481567
+
+Words similar to gargantuan:
+==============================
+gigantic : 0.79286128282547
+mammoth : 0.7310609817504883
+colossal : 0.7096067070960999
+humongous : 0.6932797431945801
+monstrous : 0.677839457988739
+massive : 0.6367258429527283
+humungous : 0.6309335231781006
+Brobdingnagian : 0.623938798904419
+behemoth : 0.5905637741088867
+ginormous : 0.5896410942077637
+
+Words similar to proffer:
+==============================
+proffered : 0.6450486779212952
+proffering : 0.5989154577255249
+proffers : 0.589277446269989
+proferred : 0.5227503776550293
+adduce : 0.44666042923927307
+controvert : 0.4400976598262787
+adduced : 0.4138774871826172
+proferring : 0.4020879566669464
+expatiate : 0.39995381236076355
+profer : 0.3950696885585785
+
+Words similar to spiel:
+==============================
+spiels : 0.5827012658119202
+blather : 0.5447470545768738
+platitudes : 0.5171806812286377
+schtick : 0.500851571559906
+shtick : 0.49159401655197144
+stump_speech : 0.4903377294540405
+bromides : 0.48356086015701294
+harangue : 0.47934263944625854
+soundbyte : 0.47151488065719604
+claptrap : 0.46592023968696594
+
+Words similar to avuncular:
+==============================
+genial : 0.7358785271644592
+amiable : 0.6849811673164368
+grandfatherly : 0.6708635687828064
+affable : 0.6541409492492676
+gruff : 0.6382840871810913
+irascible : 0.6256597638130188
+taciturn : 0.605472981929779
+urbane : 0.6001638174057007
+curmudgeonly : 0.5992003083229065
+self_effacing : 0.5888103246688843
+
+Words similar to mnemonic:
+==============================
+mnemonic_device : 0.6313295364379883
+mnemonic_devices : 0.600677490234375
+mnemonics : 0.5961448550224304
+phonemic : 0.5839760899543762
+acrostic : 0.5270079970359802
+Red_Robin_YUMMM : 0.5112375020980835
+phonic : 0.49933886528015137
+alphabetic : 0.4940248429775238
+rebus : 0.492830365896225
+phonetic_pronunciations : 0.49146878719329834
+
+Words similar to rabble:
+==============================
+proles : 0.5708080530166626
+oiks : 0.5690890550613403
+Guardianistas : 0.5394529700279236
+rabble_rousers : 0.532684326171875
+ranters : 0.5316265225410461
+wankers : 0.5297563076019287
+boors : 0.5263954401016235
+lumpenproletariat : 0.5220259428024292
+prigs : 0.5179314613342285
+cretins : 0.5177317261695862
+
+Words similar to decorous:
+==============================
+genteel : 0.6087192296981812
+gentlemanly : 0.5682979822158813
+mannerly : 0.5424574613571167
+decorum : 0.535579264163971
+dignified : 0.5320528745651245
+politesse : 0.5282843708992004
+Wildean : 0.5240534543991089
+indecorous : 0.5209788084030151
+reverent : 0.5209385752677917
+demure : 0.519774854183197
+
+Words similar to transmogrify:
+==============================
+morph : 0.593580961227417
+transmute : 0.5738057494163513
+transmogrified : 0.5276652574539185
+magically_transform : 0.5263176560401917
+morphs : 0.5184465646743774
+metamorphose : 0.5146236419677734
+transform : 0.503584623336792
+morphing : 0.49591636657714844
+transforms : 0.4947883188724518
+transmogrifies : 0.4886920154094696
+
+Words similar to cadence:
+==============================
+cadences : 0.7087790966033936
+intonations : 0.5761924982070923
+staccato : 0.573125958442688
+cadenced : 0.5620982646942139
+rhythmic_cadence : 0.5455414056777954
+rhythms : 0.5397831797599792
+rhythmic : 0.5348995923995972
+metronome : 0.5307145714759827
+intonation : 0.522957980632782
+staccatos : 0.5226022005081177
+
+Words similar to frenetic:
+==============================
+frenzied : 0.7541609406471252
+frantic : 0.6611757278442383
+manic : 0.6327225565910339
+frenetic_pace : 0.6326411962509155
+fast_paced : 0.6295823454856873
+hectic : 0.6294397711753845
+Frenetic : 0.5637394189834595
+dizzying : 0.5551856160163879
+chaotic : 0.5525920391082764
+feverish : 0.5502200126647949
+
+Words similar to hyperbole:
+==============================
+hyperbolic : 0.6677226424217224
+exaggeration : 0.6296371817588806
+hyperboles : 0.6142568588256836
+puffery : 0.6123394966125488
+bombast : 0.6081079244613647
+flapdoodle : 0.591907262802124
+sophistry : 0.5918838381767273
+blather : 0.5868993401527405
+fear_mongering : 0.5842105150222778
+balderdash : 0.5825023055076599
+
+Words similar to bespoke:
+==============================
+customized : 0.624784529209137
+custom : 0.6213369369506836
+Bentley_Mulliner : 0.5913774967193604
+Customised : 0.5888739824295044
+tailored : 0.561733603477478
+custom_tailored : 0.5536956191062927
+Bespoke : 0.5483154654502869
+bespoke_tailoring : 0.5474531650543213
+bespoke_tailor : 0.5402861833572388
+Specialising : 0.5246492624282837
+
+Words similar to writhe:
+==============================
+writhing : 0.6638121604919434
+writhes : 0.6130871176719666
+writhed : 0.5899133682250977
+flail : 0.5659400820732117
+prance : 0.5449174642562866
+cavort : 0.5441274046897888
+squirm : 0.5184099674224854
+contort : 0.5171970725059509
+gyrate : 0.5157896876335144
+chests_heaving : 0.5150623321533203
+
+Words similar to interlocutor:
+==============================
+interlocutors : 0.6808211803436279
+emissary : 0.5512391328811646
+mediator : 0.5501648783683777
+Coffee_Guzzlers_Club : 0.5293310284614563
+ally : 0.5048434734344482
+pointsman : 0.5038760900497437
+envoy : 0.49927112460136414
+credible_interlocutor : 0.497946172952652
+adversary : 0.4973624348640442
+K_Padmanabhaiah : 0.4934943616390228
+
+Words similar to cloying:
+==============================
+saccharine : 0.7523355484008789
+sappy : 0.7296231985092163
+treacly : 0.7174642086029053
+syrupy : 0.7130465507507324
+maudlin : 0.7122071385383606
+mawkish : 0.7022596001625061
+schmaltz : 0.6344717741012573
+schmaltzy : 0.6325985193252563
+cloyingly : 0.6324061751365662
+sentimentality : 0.6306234002113342
+
+Words similar to abide:
+==============================
+abided : 0.7334234714508057
+adhere : 0.7183746695518494
+abides : 0.6872194409370422
+obey : 0.626734733581543
+comply : 0.6257453560829163
+uphold : 0.6129451394081116
+adhered : 0.6091190576553345
+violate : 0.5851032733917236
+obeyed : 0.5681809782981873
+scrupulously_abide : 0.5663017630577087
+
+Words similar to volition:
+==============================
+volitional : 0.5907186269760132
+finitude : 0.5049989819526672
+telos : 0.5031124353408813
+individuation : 0.4942912757396698
+nonconscious : 0.4872065484523773
+Brahmn : 0.47922009229660034
+unconsciously : 0.47622349858283997
+interiority : 0.475243479013443
+atman : 0.4748249053955078
+construal : 0.4736635982990265
+
+Words similar to genteel:
+==============================
+gentility : 0.6493982672691345
+decorous : 0.6087192296981812
+gentlemanly : 0.6073675155639648
+courtly : 0.5723236799240112
+mannerly : 0.5682769417762756
+staid : 0.5630300045013428
+raffish : 0.5593520998954773
+snooty : 0.5544289946556091
+leisured : 0.5542994141578674
+gentry : 0.553472638130188
+
+Words similar to peculiar:
+==============================
+strange : 0.7606381773948669
+bizarre : 0.6634207367897034
+odd : 0.6404054164886475
+unusual : 0.6226118803024292
+peculiarity : 0.60677570104599
+peculiarly : 0.5893346667289734
+paradoxical : 0.5883001685142517
+incongruous : 0.5847390294075012
+weird : 0.5796815156936646
+idiosyncratic : 0.5779067873954773
+
+Words similar to defile:
+==============================
+desecrate : 0.6454511880874634
+defiling : 0.5574447512626648
+blaspheme : 0.5538897514343262
+desecrators : 0.550254225730896
+disfigure : 0.5384385585784912
+deface : 0.5370691418647766
+despoil : 0.5342747569084167
+defiled : 0.4944365322589874
+desecrating : 0.4916388690471649
+befoul : 0.49088266491889954
+
+Words similar to utopia:
+==============================
+utopian : 0.714316189289093
+utopias : 0.6701714396476746
+utopian_vision : 0.6647277474403381
+Utopian : 0.6569419503211975
+nirvana : 0.6498106718063354
+socialist_utopia : 0.62203449010849
+utopians : 0.6161510944366455
+paradise : 0.6062072515487671
+dystopia : 0.6052237153053284
+classless_society : 0.6026414632797241
+
+Words similar to notorious:
+==============================
+infamous : 0.7585025429725647
+famous : 0.5841429829597473
+Al_Scarface_Capone : 0.5380440354347229
+Notorious : 0.535739004611969
+gained_notoriety : 0.5312533378601074
+famed : 0.5201497673988342
+notorious_gangsters : 0.5168869495391846
+infamously : 0.5130438208580017
+reviled : 0.4829215705394745
+NOTORIOUS : 0.48124197125434875
+
+Words similar to scour:
+==============================
+scouring : 0.783752977848053
+scoured : 0.7425817251205444
+scours : 0.6614781618118286
+combing : 0.6296690702438354
+comb : 0.6166735291481018
+combed : 0.6034271717071533
+trawl : 0.5706263780593872
+sift : 0.5641260743141174
+searching : 0.561434805393219
+trawled : 0.546299934387207
+
+Words similar to lycanthropy:
+==============================
+vampirism : 0.6329588294029236
+lycanthrope : 0.6062415838241577
+Lovecraftian_horror : 0.599480152130127
+werewolf : 0.5892713665962219
+lovesickness : 0.5844787955284119
+werewolves_vampires : 0.5840731859207153
+Vampirism : 0.576221227645874
+hypertrichosis : 0.5730589628219604
+wolfman : 0.5688266754150391
+zombification : 0.5664022564888
+
+Words similar to umbrage:
+==============================
+took_umbrage : 0.611494779586792
+potshot : 0.5760642886161804
+dim_view : 0.5713796615600586
+potshots : 0.5266122221946716
+swipe : 0.5050369501113892
+aback : 0.494922012090683
+incensed : 0.4900469481945038
+flack : 0.4831883907318115
+veiled_swipe : 0.4784882366657257
+jaundiced_view : 0.4784126877784729
+
+Words similar to grandiose:
+==============================
+grander : 0.6464787721633911
+grandiloquent : 0.6275704503059387
+fanciful : 0.582747220993042
+grandeur : 0.5793314576148987
+extravagant : 0.5785360336303711
+hubristic : 0.5768852829933167
+grandiosity : 0.5584316849708557
+outlandish : 0.5524470806121826
+Grandiose : 0.5444467067718506
+bombastic : 0.5377610921859741
+
+Words similar to demeanor:
+==============================
+calm_demeanor : 0.7295894622802734
+easygoing_demeanor : 0.6616496443748474
+mien : 0.6488630771636963
+demeanor_belies : 0.6425721049308777
+easygoing_manner : 0.6421576738357544
+attitude : 0.6418648362159729
+persona : 0.637343168258667
+demeanors : 0.6333524584770203
+unflappable_demeanor : 0.6264870166778564
+mannerisms : 0.6181556582450867
+
+Words similar to assiduous:
+==============================
+diligent : 0.6410843133926392
+scrupulous : 0.6312066912651062
+fastidious : 0.5766047239303589
+meticulous : 0.5506066083908081
+tireless : 0.5417987108230591
+zealous : 0.5410693883895874
+indefatigable : 0.5348031520843506
+punctilious : 0.5290023684501648
+conscientious : 0.5223844051361084
+dutiful : 0.5182732343673706
+
+Words similar to panache:
+==============================
+verve : 0.7673163414001465
+flair : 0.7591474652290344
+élan : 0.7447508573532104
+elan : 0.7241834402084351
+brio : 0.717397153377533
+aplomb : 0.6987921595573425
+pizzazz : 0.6619163751602173
+elegance : 0.6616142392158508
+gusto : 0.6533589959144592
+subtlety : 0.6418187618255615
+
+Words similar to conciliate:
+==============================
+conciliating : 0.5730698108673096
+conciliation : 0.5328515768051147
+coopt : 0.5157132148742676
+mediate : 0.4980092942714691
+marginalize : 0.49692201614379883
+diffuse_tensions : 0.49657532572746277
+reconcile : 0.4877062737941742
+arbitrate : 0.48324888944625854
+particularistic : 0.4799366593360901
+modus_vivendi : 0.4786951541900635
+
+Words similar to mawkish:
+==============================
+maudlin : 0.7741053104400635
+melodramatic : 0.7308027744293213
+sappy : 0.71192866563797
+treacly : 0.7057313919067383
+cloying : 0.7022596597671509
+saccharine : 0.7002113461494446
+schmaltzy : 0.6830734014511108
+sentimentality : 0.6503611207008362
+schmaltz : 0.6409497261047363
+overly_sentimental : 0.638016939163208
+
+Words similar to facsimile:
+==============================
+facsimiles : 0.592353880405426
+fax : 0.5293102264404297
+mechanically_reproduced : 0.48579221963882446
+reproductions : 0.4837415814399719
+facsimile_transmission : 0.48001280426979065
+calfskin_parchment : 0.47002336382865906
+email_prospectus-ny@ny.email.gs.com : 0.46833565831184387
+postcard : 0.4654136896133423
+photocopy : 0.4493131935596466
+www.ENGINEERING.com : 0.44661152362823486
+
+Words similar to obliterate:
+==============================
+destroy : 0.7293034791946411
+annihilate : 0.6592815518379211
+erase : 0.6021994352340698
+obliterating : 0.600202739238739
+shatter : 0.5765565037727356
+wipe : 0.561111569404602
+decimate : 0.5577998161315918
+obliterated : 0.5501904487609863
+efface : 0.5477694869041443
+obliterates : 0.546683669090271
+
+Words similar to substantive:
+==============================
+meaningful : 0.6070095300674438
+Substantive : 0.6022246479988098
+constructive : 0.5557480454444885
+substantively : 0.542443037033081
+substantiative : 0.5363315343856812
+cogent : 0.5107429623603821
+easily_resolvable : 0.4969048798084259
+PSLRA_implemented : 0.4844781458377838
+factual : 0.4820837378501892
+vague_generalities : 0.481951504945755
+
+Words similar to invective:
+==============================
+vitriol : 0.7523802518844604
+vituperation : 0.7025374174118042
+invectives : 0.6843286156654358
+diatribes : 0.6635422110557556
+insults : 0.6615177392959595
+vitriolic : 0.6601207256317139
+vituperative : 0.6485223770141602
+tirades : 0.6363335847854614
+diatribe : 0.6289056539535522
+epithets : 0.617238461971283
+
+Words similar to broadside:
+==============================
+broadsides : 0.6490274667739868
+salvo : 0.5839319825172424
+diatribe : 0.5302299857139587
+stinging_broadside : 0.5227986574172974
+salvos : 0.5013683438301086
+scathing : 0.4918331205844879
+verbal_broadside : 0.48793891072273254
+barb : 0.4591114819049835
+sideswipe : 0.4560505449771881
+tirade : 0.45443910360336304
+
+Words similar to rancid:
+==============================
+putrid : 0.5938246250152588
+rotten : 0.5814836621284485
+moldy : 0.563677191734314
+maggoty : 0.5577288866043091
+curdled : 0.549556314945221
+putrefied : 0.5377073884010315
+Overcooked : 0.534679651260376
+flavourless : 0.5321019887924194
+rotting : 0.5309152007102966
+dreg : 0.5298147797584534
+
+Words similar to coalesce:
+==============================
+coalescing : 0.7055180668830872
+coalesced : 0.6696826815605164
+cohere : 0.5975547432899475
+coalesces : 0.5832372903823853
+crystallize : 0.5798223614692688
+congeal : 0.5618172883987427
+unite : 0.5587947368621826
+meld : 0.5384922027587891
+unify : 0.5211357474327087
+cohered : 0.5210832357406616
+
+Words similar to laconic:
+==============================
+taciturn : 0.69070965051651
+deadpan : 0.6520852446556091
+droll : 0.6323727965354919
+wry : 0.6091216206550598
+gruff : 0.603590726852417
+genial : 0.5967928767204285
+sardonic : 0.5943753123283386
+monosyllabic : 0.5826385021209717
+stoic : 0.5826159119606018
+deadpan_wit : 0.580043613910675
+
+Words similar to exponent:
+==============================
+exponents : 0.7513335943222046
+finest_exponents : 0.578510582447052
+populariser : 0.5153998732566833
+theoretician : 0.5070171356201172
+foremost_exponent : 0.5042985677719116
+maestro : 0.5024586319923401
+doyen : 0.49865540862083435
+foremost_exponents : 0.4846113622188568
+educationalist : 0.4775198996067047
+Bharatanatyam_dancer : 0.47735512256622314
+
+Words similar to haywire:
+==============================
+awry : 0.7209513187408447
+horribly_wrong : 0.6220747828483582
+berserk : 0.6118249893188477
+goes_haywire : 0.5358689427375793
+astray : 0.5217811465263367
+terribly_awry : 0.5049951076507568
+disastrously_wrong : 0.5035020112991333
+kablooey : 0.5010967254638672
+gone_haywire : 0.5004034638404846
+horribly_awry : 0.49725714325904846
+
+Words similar to verdigris:
+==============================
+stippled : 0.7065244317054749
+celadon_green : 0.6792483925819397
+yellow_ocher : 0.6690661311149597
+coppery : 0.6657351851463318
+patinaed : 0.6650654673576355
+crackle_glaze : 0.6636589765548706
+crenellations : 0.6601594090461731
+unglazed_porcelain : 0.6581564545631409
+creamy_beige : 0.6561588048934937
+brownish_color : 0.6524173021316528
+
+Words similar to perspicacious:
+==============================
+perceptive : 0.6482518911361694
+astute : 0.6328635811805725
+erudite : 0.6220399141311646
+insightful : 0.5669831037521362
+sagacious : 0.5597608089447021
+prescient : 0.5308934450149536
+perceptive_observer : 0.5072498321533203
+popularizers : 0.5037340521812439
+enlightened : 0.49603670835494995
+Garet_Garrett : 0.4958157241344452
+
+Words similar to defer:
+==============================
+deferring : 0.673954427242279
+postpone : 0.6704323291778564
+forego : 0.642041802406311
+forgo : 0.6148888468742371
+deferred : 0.6063248515129089
+suspend : 0.5913012623786926
+reconsider : 0.5811807513237
+defers : 0.5802200436592102
+deferral : 0.5687227845191956
+waive : 0.5445957779884338
+
+Words similar to misnomer:
+==============================
+oxymoron : 0.6045048832893372
+oxymoronic : 0.5696050524711609
+euphemistic : 0.5362793207168579
+pejoratively : 0.5294980406761169
+misnamed : 0.5085381269454956
+apt_description : 0.5054866671562195
+pejorative : 0.5006018280982971
+red_herring : 0.49208536744117737
+negative_connotation : 0.48930037021636963
+coined : 0.4878207743167877
+
+Words similar to anthropomorphic:
+==============================
+anthropomorphized : 0.6530345678329468
+anthropomorphizing : 0.6096922755241394
+anthropomorphised : 0.5983368158340454
+humanlike : 0.5894572138786316
+anthropomorphism : 0.5858573317527771
+anthropomorphize : 0.58544921875
+cartoonlike : 0.5738047361373901
+anthropomorphic_creatures : 0.5624147653579712
+inanimate : 0.5523739457130432
+zoomorphic : 0.5501665472984314
+
+Words similar to caucus:
+==============================
+caucuses : 0.7208021879196167
+Democratic_Caucus : 0.6341123580932617
+precinct_caucus : 0.6312960982322693
+Democratic_Party : 0.6162508726119995
+primaries : 0.5975701212882996
+Caucus : 0.5863950848579407
+precinct_caucuses : 0.5518651008605957
+caucusing : 0.551279604434967
+delegates : 0.5472199320793152
+Democratic : 0.5445282459259033
+
+Words similar to sporadic:
+==============================
+intermittent : 0.6669243574142456
+Sporadic : 0.6510794162750244
+sporadically : 0.64702969789505
+infrequent : 0.5699620842933655
+spotty : 0.5402300357818604
+sporadic_bursts : 0.5280120372772217
+intermittently : 0.5196017026901245
+periodic_flare_ups : 0.5158149600028992
+occasional : 0.5138852596282959
+sporadic_outbreaks : 0.49989089369773865
+
+Words similar to fructify:
+==============================
+fructified : 0.6955531239509583
+fructifies : 0.594692051410675
+fructifying : 0.5630397200584412
+Bajajs : 0.5394015312194824
+Shri_Atal_Bihari_Vajpayee : 0.5374034643173218
+fructification : 0.5350096821784973
+concretise : 0.5302491188049316
+Roongta : 0.5291042923927307
+Seshasayee : 0.5270594954490662
+Kumar_Mangalam : 0.5253055095672607
+
+Words similar to kerfuffle:
+==============================
+brouhaha : 0.781144380569458
+hullabaloo : 0.6929965615272522
+controversy : 0.6886482834815979
+kerfluffle : 0.6711678504943848
+furore : 0.6684718728065491
+furor : 0.651764452457428
+uproar : 0.6483151316642761
+contretemps : 0.6437870860099792
+kafuffle : 0.6184463500976562
+hubbub : 0.6151781678199768
+
+Words similar to ritzy:
+==============================
+posh : 0.7392246723175049
+swanky : 0.6991162300109863
+swank : 0.6769576072692871
+tony : 0.6295515894889832
+chi_chi : 0.6031461358070374
+glitzy : 0.5918264389038086
+upscale : 0.588463544845581
+opulent : 0.5571416616439819
+swankiest : 0.5543238520622253
+luxe : 0.5529664158821106
+
+Words similar to proselytize:
+==============================
+proselytizing : 0.6486431360244751
+proselytise : 0.6356457471847534
+evangelize : 0.529414713382721
+proselytization : 0.5037851333618164
+proselytized : 0.4987912178039551
+Christian_missionaries : 0.49600088596343994
+proselytizes : 0.48947399854660034
+preach : 0.4745085537433624
+proselytisation : 0.46816492080688477
+evangelise : 0.4668077528476715
+
+Words similar to frolic:
+==============================
+frolicking : 0.703483521938324
+frolics : 0.6612562537193298
+cavort : 0.6579199433326721
+frolick : 0.6266322731971741
+frolicked : 0.598681628704071
+cavorting : 0.597180962562561
+gamboling : 0.5911540985107422
+Carmen_Electra_Paris_Hilton : 0.5708414912223816
+gambol : 0.5704216361045837
+laze : 0.554227888584137
+
+Words similar to nebulous:
+==============================
+vague : 0.6970479488372803
+ambiguous : 0.6198996901512146
+amorphous : 0.5890963077545166
+unspecific : 0.577704906463623
+undefined : 0.5482133030891418
+subjective : 0.525855541229248
+hazy : 0.5241904258728027
+inscrutable : 0.5232057571411133
+murky : 0.5175586938858032
+obtuse : 0.5174852609634399
+
+Words similar to patina:
+==============================
+veneer : 0.6227699518203735
+varnish : 0.5813782215118408
+patination : 0.5692136287689209
+translucence : 0.5530335903167725
+patinas : 0.5495758652687073
+thin_veneer : 0.5301856994628906
+luminous_glow : 0.5267078280448914
+aura : 0.5181899666786194
+crackle_glaze : 0.5173676609992981
+silvering : 0.5139605402946472
+
+Words similar to brackish:
+==============================
+brackish_water : 0.6087867021560669
+Brackish_water : 0.5990402698516846
+salty_seawater : 0.5831021666526794
+hyper_saline : 0.5827257633209229
+brackish_waters : 0.5744182467460632
+Biscayne_Aquifer : 0.5614878535270691
+turbid : 0.5579449534416199
+brackish_groundwater : 0.5564931035041809
+turbid_water : 0.5423598289489746
+replenish_aquifers : 0.5371397733688354
+
+Words similar to heartstring:
+==============================
+heartstrings : 0.6316549181938171
+forelocks : 0.5365374088287354
+harp_strings : 0.512679398059845
+marionette_strings : 0.5108504295349121
+tugs : 0.49662086367607117
+mawkish_sentimentality : 0.49560707807540894
+pathos : 0.4862428903579712
+forelock : 0.4860456585884094
+shmaltz : 0.4850490391254425
+winsomeness : 0.4835457503795624
+
+Words similar to adjudicate:
+==============================
+adjudicating : 0.6735591292381287
+adjudicates : 0.6351398825645447
+adjudicated : 0.6095734238624573
+arbitrate : 0.5971644520759583
+adjudication : 0.5858095288276672
+adjudicate_disputes : 0.5767576098442078
+quasi_judicial_body : 0.5552766919136047
+adjudicative : 0.5230333805084229
+justiciable : 0.5125706791877747
+non_justiciable : 0.5052474141120911
+
+Words similar to eminently:
+==============================
+supremely : 0.6399369835853577
+Eminently : 0.608016312122345
+infinitely : 0.5425965189933777
+amazingly : 0.5415641069412231
+exceedingly : 0.5356830954551697
+remarkably : 0.5280206799507141
+undeniably : 0.5273548364639282
+astonishingly : 0.5200929045677185
+fabulously : 0.5169422626495361
+wonderfully : 0.514515221118927
+
+Words similar to crepuscular:
+==============================
+nocturnal : 0.5910230278968811
+dryads : 0.558856725692749
+nocturnal_animals : 0.5427502989768982
+darkling : 0.5305727124214172
+unpeopled : 0.5300369262695312
+languorous : 0.5289623737335205
+diurnal : 0.5278102159500122
+ethereality : 0.5272234082221985
+twilit : 0.5241525173187256
+swamp_sparrow : 0.5181134343147278
+
+Words similar to riposte:
+==============================
+retort : 0.6860918402671814
+rejoinder : 0.6336304545402527
+ripostes : 0.5829737782478333
+counterblast : 0.5758413076400757
+refutation : 0.5656405091285706
+rebuttal : 0.536508321762085
+stinging_riposte : 0.5363203287124634
+denunciation : 0.5256259441375732
+putdown : 0.5226851105690002
+rebuke : 0.5182721614837646
+
+Words similar to trivial:
+==============================
+trifling : 0.7156885862350464
+inconsequential : 0.7085797190666199
+insignificant : 0.7025314569473267
+unimportant : 0.6996250152587891
+mundane : 0.6482575535774231
+banal : 0.5918062329292297
+picayune : 0.5677777528762817
+seemingly_trivial : 0.562353789806366
+silly : 0.5562077760696411
+irrelevant : 0.5444899201393127
+
+Words similar to alleviate:
+==============================
+relieve : 0.8184146285057068
+alleviating : 0.7552884817123413
+ameliorate : 0.7246618866920471
+lessen : 0.6910490393638611
+alleviated : 0.6821475028991699
+ease : 0.6578652262687683
+mitigate : 0.6545129418373108
+allay : 0.6055092215538025
+reduce : 0.5992761850357056
+relieving : 0.5977646112442017
+
+Words similar to melancholia:
+==============================
+melancholy : 0.7203348875045776
+melancholic : 0.6619760990142822
+moroseness : 0.6261070966720581
+neurosis : 0.6087674498558044
+melodicism : 0.5977436304092407
+lyricism : 0.5976046919822693
+existential_dread : 0.5970930457115173
+moodiness : 0.5959941744804382
+spaciness : 0.5918297171592712
+plangent : 0.5877598524093628
+
+Words similar to carceral:
+==============================
+totalitarian_dictatorships : 0.5887476801872253
+repressive_apparatus : 0.5649166703224182
+barbarisms : 0.5581487417221069
+socially_stratified : 0.5538742542266846
+utter_lawlessness : 0.5525864958763123
+capitalist_imperialism : 0.5502095818519592
+depersonalised : 0.5323586463928223
+Weberian : 0.531779408454895
+outlawry : 0.5313613414764404
+complicities : 0.5280053615570068
+
+Words similar to shard:
+==============================
+shards : 0.6028701066970825
+fragment : 0.4955199956893921
+fragments : 0.48798972368240356
+orb : 0.487101286649704
+glass_shard : 0.4681270122528076
+razorblade : 0.46501895785331726
+wine_goblet : 0.44335249066352844
+goblet : 0.44330310821533203
+jagged_shards : 0.4392561912536621
+sword : 0.43199077248573303
+
+Words similar to dilatory:
+==============================
+dilatory_tactics : 0.5372776985168457
+obfuscatory : 0.5138124227523804
+contumacious : 0.5077962279319763
+lackadaisical : 0.5047022104263306
+cavalier : 0.4965452551841736
+dissembling : 0.49308842420578003
+slothful : 0.4840748906135559
+legalistic : 0.4833705723285675
+sophistical : 0.4821939468383789
+slip_shod : 0.481986403465271
+
+Words similar to litany:
+==============================
+myriad : 0.6002606153488159
+slew : 0.5728110074996948
+plethora : 0.5654951333999634
+recited_litany : 0.551757276058197
+littany : 0.5495986938476562
+reciting_litany : 0.529808521270752
+multitude : 0.5240260362625122
+numerous : 0.519564151763916
+bevy : 0.5017667412757874
+ineptitudes : 0.49414488673210144
+
+Words similar to wreak:
+==============================
+wreaked : 0.683378279209137
+wreaking : 0.6678310036659241
+inflict : 0.6433188915252686
+wreak_havoc : 0.6373900175094604
+wreaks : 0.5873178839683533
+wreak_untold : 0.5787210464477539
+unleash : 0.5548815727233887
+wrought : 0.5424649715423584
+wreaked_untold : 0.5266242027282715
+wreck_havoc : 0.5137466192245483
+
+Words similar to immutable:
+==============================
+unalterable : 0.6462439894676208
+unchangeable : 0.6407211422920227
+unchanging : 0.6349762678146362
+inalterable : 0.5698658227920532
+changeless : 0.5557388067245483
+inviolate : 0.5352044701576233
+immutability : 0.5349576473236084
+axioms : 0.5319918394088745
+perfectibility : 0.5303860902786255
+irreducible : 0.5301463603973389
+
+Words similar to charisma:
+==============================
+charismatic : 0.6628021597862244
+charismatic_personality : 0.632605791091919
+boyish_charm : 0.6312734484672546
+affability : 0.6274701356887817
+likability : 0.6197836399078369
+gravitas : 0.6045063734054565
+magnetism : 0.601594865322113
+oratorical_skills : 0.6014941930770874
+eloquence : 0.5955051779747009
+likeability : 0.5936468243598938
+
+Words similar to unabashed:
+==============================
+unashamed : 0.7054973840713501
+unapologetic : 0.6621038317680359
+ardent : 0.6143006086349487
+unabashedly : 0.5947493314743042
+avowed : 0.5945954322814941
+unbridled : 0.5664145350456238
+fervent : 0.5562837719917297
+unembarrassed : 0.5455048084259033
+unadulterated : 0.5401859283447266
+inveterate : 0.5074018239974976
+
+Words similar to epitome:
+==============================
+embodiment : 0.7185038924217224
+personified : 0.7121411561965942
+personification : 0.7019200921058655
+antithesis : 0.6848648190498352
+epitomy : 0.6787782907485962
+epitomizes : 0.6425278186798096
+personifies : 0.6263580322265625
+epitomized : 0.6169050931930542
+quintessential : 0.6141875386238098
+epitomize : 0.6037935018539429
+
+Words similar to rash:
+==============================
+spate : 0.6607312560081482
+string : 0.5049306750297546
+rashes : 0.49445641040802
+itchy_bumps : 0.4818423390388489
+Insect_bites : 0.46620747447013855
+rashes_hives : 0.4653359353542328
+itchy : 0.45551496744155884
+fevers_rashes : 0.4543114900588989
+generalized_vaccinia : 0.4536096155643463
+flurry : 0.4517698585987091
+
+Words similar to abrogate:
+==============================
+abrogated : 0.6356196999549866
+abrogating : 0.6015267372131348
+unilaterally_abrogate : 0.5968296527862549
+abrogation : 0.5698790550231934
+abrogates : 0.564631998538971
+derogate : 0.5264818072319031
+amend : 0.5199665427207947
+rescind : 0.5180054306983948
+unilaterally_abrogated : 0.5167252421379089
+renege : 0.5161963105201721
+
+Words similar to glitch:
+==============================
+glitches : 0.7880706787109375
+snafu : 0.7609139084815979
+technical_glitch : 0.7361343502998352
+computer_glitch : 0.7286056280136108
+malfunction : 0.663890540599823
+technical_glitches : 0.6324726343154907
+flaw : 0.6188561916351318
+mixup : 0.6130162477493286
+snafus : 0.6112551689147949
+Glitches : 0.6060920357704163
+
+Words similar to overwhelm:
+==============================
+overwhelms : 0.6586448550224304
+overpower : 0.6445223093032837
+overwhelmed : 0.5589976906776428
+threaten : 0.5500091910362244
+overtax : 0.5483796000480652
+engulf : 0.5433140397071838
+paralyze : 0.5291759967803955
+upend : 0.5273264646530151
+inundate : 0.5252636075019836
+obliterate : 0.5188153386116028
+
+Words similar to vociferous:
+==============================
+vehement : 0.744537889957428
+strident : 0.6795355081558228
+fervent : 0.6379733681678772
+vocal : 0.6056324243545532
+Vociferous : 0.6011115312576294
+ardent : 0.5902645587921143
+outspoken : 0.5658910870552063
+loudest : 0.537929356098175
+outshouted : 0.5320646166801453
+voluble : 0.5269579887390137
+
+Words similar to sensibility:
+==============================
+sensibilities : 0.7592655420303345
+artistic_sensibility : 0.6348956227302551
+artistic_sensibilities : 0.6322034597396851
+playfulness : 0.6233530044555664
+eclecticism : 0.6227341890335083
+whimsy : 0.6173399090766907
+edginess : 0.611222505569458
+quirkiness : 0.6104004979133606
+vibe : 0.5991441607475281
+romanticism : 0.5968610644340515
+
+Words similar to devolve:
+==============================
+devolving : 0.7199596166610718
+devolved : 0.7146729230880737
+devolves : 0.6386758089065552
+degenerate : 0.5567445158958435
+Devolving : 0.5491533875465393
+morph : 0.5340421795845032
+degenerated : 0.5154911279678345
+plunge_headlong : 0.5054080486297607
+devolution : 0.4637322425842285
+metamorphose : 0.4633784592151642
+
+Words similar to jaunty:
+==============================
+jazzy : 0.6295680403709412
+lilting : 0.6251093745231628
+melancholy : 0.6002588272094727
+droll : 0.5868121385574341
+countermelody : 0.5819664597511292
+tuneful : 0.5810022950172424
+Beatlesque : 0.5805633068084717
+rollicks : 0.5794623494148254
+insouciant : 0.5792116522789001
+pointillistic : 0.5786781311035156
+
+Words similar to effulgence:
+==============================
+sublimity : 0.6538164019584656
+resplendence : 0.6477105021476746
+supernal : 0.6236514449119568
+joyousness : 0.6193172931671143
+radiance : 0.6073712110519409
+incandescence : 0.6062650680541992
+suffusing : 0.5965410470962524
+effulgent : 0.5950314998626709
+vivifying : 0.5935906767845154
+aestheticism : 0.5932137966156006
+
+Words similar to brandish:
+==============================
+brandished : 0.6777651309967041
+brandishing : 0.6566767692565918
+brandishes : 0.5617901086807251
+wielding : 0.5380814671516418
+unsheath : 0.534927487373352
+Brandishing : 0.523124635219574
+wield : 0.5104411840438843
+flaunt : 0.5082051157951355
+unsheathe : 0.5075696110725403
+Wielding : 0.5061319470405579
+

@@ -1,0 +1,7 @@
+Word lists to use to find sample data:
+ - https://simple.wiktionary.org/wiki/Wiktionary:Academic_word_list
+
+Defintions api:
+ - https://dictionaryapi.dev/
+   - How to make calls: https://api.dictionaryapi.dev/api/v2/entries/en/<word> where word is the word we want
+   - Data seems to come out in a JSON format but will have to figure out how to scrape it
