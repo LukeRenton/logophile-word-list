@@ -1,6 +1,7 @@
 import requests
 import sys
 from bs4 import BeautifulSoup
+from nltk.corpus import wordnet
 URL = "https://simple.wiktionary.org/wiki/Wiktionary:Academic_word_list"
 defintion_url = "https://api.dictionaryapi.dev/api/v2/entries/en/"
 print("Trying to get data from: " + URL)
@@ -18,7 +19,7 @@ if (page.status_code == 200):
   words = refine_list([link.text for link in word_links], 'sector', 'collapse')
   
   print("All words have been successfully extracted")
-  options = "\nPlease select an option below (i.e. if you want to display the list enter in the number 1): \n\n1. Display the original word list \n2. Remove a word from the word list \n3. Remove words containing a certain character \n4. Get a words definition \n5. Exit \n\nEnter your option here: " 
+  options = "\nPlease select an option below (i.e. if you want to display the list enter in the number 1): \n\n1. Display the original word list \n2. Remove a word from the word list \n3. Remove words containing a certain character \n4. Get a words definition \n5. Get fast defintion \nAnything else. Exit \n\nEnter your option here: " 
   def remove_words_with_character(words, regex):
     for word in words:
       if (word.find(regex) != -1):
@@ -46,8 +47,17 @@ if (page.status_code == 200):
       word_to_get = input("Enter the word to get the definition for: ")
       defintion_page = requests.get(defintion_url + word_to_get)
       print(defintion_page.content)
+    elif (answer == "5"):
+      print("wasuuip")
+      word_to_get = input("Enter the word to get the definition for: ") 
+      print("wasuuip")
+      syns = wordnet.synsets(word_to_get)
+      print("wasuuip")
+      print(syns[0].definition())
     else:
-      print("Please enter one of the options listed above")
+      word_to_get = input("Enter the word to get the definition for: ") 
+      syns = wordnet.synsets(word_to_get)
+      print(syns[0].definition())
     
   with open("word_list.txt", "w") as f:
     for word in words:
